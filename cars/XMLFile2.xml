@@ -1,0 +1,7003 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autod>
+	<auto>
+		<id>1</id>
+		<mark>Toyota</mark>
+		<mudel>Previa</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">9762</hind>
+	</auto>
+	<auto>
+		<id>2</id>
+		<mark>Kia</mark>
+		<mudel>Amanti</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">978</hind>
+	</auto>
+	<auto>
+		<id>3</id>
+		<mark>GMC</mark>
+		<mudel>Jimmy</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">6477</hind>
+	</auto>
+	<auto>
+		<id>4</id>
+		<mark>BMW</mark>
+		<mudel>Z3</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">8944</hind>
+	</auto>
+	<auto>
+		<id>5</id>
+		<mark>Lexus</mark>
+		<mudel>LS</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6864</hind>
+	</auto>
+	<auto>
+		<id>6</id>
+		<mark>Suzuki</mark>
+		<mudel>Swift</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">3094</hind>
+	</auto>
+	<auto>
+		<id>7</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3308</hind>
+	</auto>
+	<auto>
+		<id>8</id>
+		<mark>Chrysler</mark>
+		<mudel>Concorde</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">4676</hind>
+	</auto>
+	<auto>
+		<id>9</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">5526</hind>
+	</auto>
+	<auto>
+		<id>10</id>
+		<mark>Eagle</mark>
+		<mudel>Summit</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4166</hind>
+	</auto>
+	<auto>
+		<id>11</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2493</hind>
+	</auto>
+	<auto>
+		<id>12</id>
+		<mark>Kia</mark>
+		<mudel>Sorento</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">5341</hind>
+	</auto>
+	<auto>
+		<id>13</id>
+		<mark>Toyota</mark>
+		<mudel>Sequoia</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">2744</hind>
+	</auto>
+	<auto>
+		<id>14</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">6351</hind>
+	</auto>
+	<auto>
+		<id>15</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">9996</hind>
+	</auto>
+	<auto>
+		<id>16</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1964</aasta>
+		<hind valuuta="euro">8169</hind>
+	</auto>
+	<auto>
+		<id>17</id>
+		<mark>Hyundai</mark>
+		<mudel>Accent</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4418</hind>
+	</auto>
+	<auto>
+		<id>18</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>S-Class</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">9900</hind>
+	</auto>
+	<auto>
+		<id>19</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado 1500</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8938</hind>
+	</auto>
+	<auto>
+		<id>20</id>
+		<mark>Nissan</mark>
+		<mudel>Pathfinder</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9998</hind>
+	</auto>
+	<auto>
+		<id>21</id>
+		<mark>GMC</mark>
+		<mudel>Savana</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">7866</hind>
+	</auto>
+	<auto>
+		<id>22</id>
+		<mark>Buick</mark>
+		<mudel>LeSabre</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">1075</hind>
+	</auto>
+	<auto>
+		<id>23</id>
+		<mark>Ford</mark>
+		<mudel>Probe</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">9623</hind>
+	</auto>
+	<auto>
+		<id>24</id>
+		<mark>Honda</mark>
+		<mudel>CR-V</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">8806</hind>
+	</auto>
+	<auto>
+		<id>25</id>
+		<mark>Audi</mark>
+		<mudel>Allroad</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">410</hind>
+	</auto>
+	<auto>
+		<id>26</id>
+		<mark>Land Rover</mark>
+		<mudel>Freelander</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">8892</hind>
+	</auto>
+	<auto>
+		<id>27</id>
+		<mark>Buick</mark>
+		<mudel>Riviera</mudel>
+		<aasta>1979</aasta>
+		<hind valuuta="euro">4635</hind>
+	</auto>
+	<auto>
+		<id>28</id>
+		<mark>Subaru</mark>
+		<mudel>Loyale</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">5169</hind>
+	</auto>
+	<auto>
+		<id>29</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">1863</hind>
+	</auto>
+	<auto>
+		<id>30</id>
+		<mark>Land Rover</mark>
+		<mudel>Defender</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">6728</hind>
+	</auto>
+	<auto>
+		<id>31</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado 1500</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">3198</hind>
+	</auto>
+	<auto>
+		<id>32</id>
+		<mark>Audi</mark>
+		<mudel>5000S</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">5363</hind>
+	</auto>
+	<auto>
+		<id>33</id>
+		<mark>Chevrolet</mark>
+		<mudel>Sportvan G30</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">8230</hind>
+	</auto>
+	<auto>
+		<id>34</id>
+		<mark>Chevrolet</mark>
+		<mudel>S10</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">8230</hind>
+	</auto>
+	<auto>
+		<id>35</id>
+		<mark>Mazda</mark>
+		<mudel>CX-9</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">9392</hind>
+	</auto>
+	<auto>
+		<id>36</id>
+		<mark>Chevrolet</mark>
+		<mudel>Cavalier</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">5907</hind>
+	</auto>
+	<auto>
+		<id>37</id>
+		<mark>Chevrolet</mark>
+		<mudel>Uplander</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">2488</hind>
+	</auto>
+	<auto>
+		<id>38</id>
+		<mark>Cadillac</mark>
+		<mudel>DTS</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">8013</hind>
+	</auto>
+	<auto>
+		<id>39</id>
+		<mark>Hyundai</mark>
+		<mudel>Accent</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">7515</hind>
+	</auto>
+	<auto>
+		<id>40</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">3630</hind>
+	</auto>
+	<auto>
+		<id>41</id>
+		<mark>Panoz</mark>
+		<mudel>Esperante</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2753</hind>
+	</auto>
+	<auto>
+		<id>42</id>
+		<mark>Mazda</mark>
+		<mudel>Protege</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">8923</hind>
+	</auto>
+	<auto>
+		<id>43</id>
+		<mark>Hyundai</mark>
+		<mudel>Sonata</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7841</hind>
+	</auto>
+	<auto>
+		<id>44</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">1924</hind>
+	</auto>
+	<auto>
+		<id>45</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">6376</hind>
+	</auto>
+	<auto>
+		<id>46</id>
+		<mark>Jaguar</mark>
+		<mudel>XJ</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">4594</hind>
+	</auto>
+	<auto>
+		<id>47</id>
+		<mark>Acura</mark>
+		<mudel>NSX</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">453</hind>
+	</auto>
+	<auto>
+		<id>48</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1978</aasta>
+		<hind valuuta="euro">1582</hind>
+	</auto>
+	<auto>
+		<id>49</id>
+		<mark>Plymouth</mark>
+		<mudel>Reliant</mudel>
+		<aasta>1981</aasta>
+		<hind valuuta="euro">1991</hind>
+	</auto>
+	<auto>
+		<id>50</id>
+		<mark>Chevrolet</mark>
+		<mudel>G-Series 3500</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">638</hind>
+	</auto>
+	<auto>
+		<id>51</id>
+		<mark>Audi</mark>
+		<mudel>Q5</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6143</hind>
+	</auto>
+	<auto>
+		<id>52</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">9394</hind>
+	</auto>
+	<auto>
+		<id>53</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">1972</hind>
+	</auto>
+	<auto>
+		<id>54</id>
+		<mark>Lexus</mark>
+		<mudel>RX Hybrid</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3751</hind>
+	</auto>
+	<auto>
+		<id>55</id>
+		<mark>Aston Martin</mark>
+		<mudel>V8 Vantage</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">9080</hind>
+	</auto>
+	<auto>
+		<id>56</id>
+		<mark>Geo</mark>
+		<mudel>Metro</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8003</hind>
+	</auto>
+	<auto>
+		<id>57</id>
+		<mark>Chevrolet</mark>
+		<mudel>Camaro</mudel>
+		<aasta>1970</aasta>
+		<hind valuuta="euro">1627</hind>
+	</auto>
+	<auto>
+		<id>58</id>
+		<mark>Suzuki</mark>
+		<mudel>SX4</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9718</hind>
+	</auto>
+	<auto>
+		<id>59</id>
+		<mark>Jeep</mark>
+		<mudel>Wrangler</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2980</hind>
+	</auto>
+	<auto>
+		<id>60</id>
+		<mark>Volkswagen</mark>
+		<mudel>Passat</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">4640</hind>
+	</auto>
+	<auto>
+		<id>61</id>
+		<mark>Volvo</mark>
+		<mudel>XC90</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">5184</hind>
+	</auto>
+	<auto>
+		<id>62</id>
+		<mark>Nissan</mark>
+		<mudel>Altima</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6773</hind>
+	</auto>
+	<auto>
+		<id>63</id>
+		<mark>Ford</mark>
+		<mudel>Explorer Sport Trac</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">6259</hind>
+	</auto>
+	<auto>
+		<id>64</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">543</hind>
+	</auto>
+	<auto>
+		<id>65</id>
+		<mark>Maybach</mark>
+		<mudel>62</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">2004</hind>
+	</auto>
+	<auto>
+		<id>66</id>
+		<mark>Chevrolet</mark>
+		<mudel>Avalanche</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">9989</hind>
+	</auto>
+	<auto>
+		<id>67</id>
+		<mark>Pontiac</mark>
+		<mudel>1000</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">8346</hind>
+	</auto>
+	<auto>
+		<id>68</id>
+		<mark>Audi</mark>
+		<mudel>TT</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">3351</hind>
+	</auto>
+	<auto>
+		<id>69</id>
+		<mark>Chrysler</mark>
+		<mudel>Crossfire</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6848</hind>
+	</auto>
+	<auto>
+		<id>70</id>
+		<mark>Dodge</mark>
+		<mudel>Viper</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">1434</hind>
+	</auto>
+	<auto>
+		<id>71</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Aurora</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3802</hind>
+	</auto>
+	<auto>
+		<id>72</id>
+		<mark>Ford</mark>
+		<mudel>Explorer Sport Trac</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">7728</hind>
+	</auto>
+	<auto>
+		<id>73</id>
+		<mark>Infiniti</mark>
+		<mudel>QX56</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3589</hind>
+	</auto>
+	<auto>
+		<id>74</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">9345</hind>
+	</auto>
+	<auto>
+		<id>75</id>
+		<mark>BMW</mark>
+		<mudel>1 Series</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">2533</hind>
+	</auto>
+	<auto>
+		<id>76</id>
+		<mark>Suzuki</mark>
+		<mudel>Swift</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">4656</hind>
+	</auto>
+	<auto>
+		<id>77</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">3183</hind>
+	</auto>
+	<auto>
+		<id>78</id>
+		<mark>Plymouth</mark>
+		<mudel>Laser</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">9976</hind>
+	</auto>
+	<auto>
+		<id>79</id>
+		<mark>Chevrolet</mark>
+		<mudel>Sportvan G30</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2232</hind>
+	</auto>
+	<auto>
+		<id>80</id>
+		<mark>Hyundai</mark>
+		<mudel>Accent</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">5349</hind>
+	</auto>
+	<auto>
+		<id>81</id>
+		<mark>Chevrolet</mark>
+		<mudel>Blazer</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2990</hind>
+	</auto>
+	<auto>
+		<id>82</id>
+		<mark>Dodge</mark>
+		<mudel>Grand Caravan</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">9172</hind>
+	</auto>
+	<auto>
+		<id>83</id>
+		<mark>Buick</mark>
+		<mudel>Regal</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">6377</hind>
+	</auto>
+	<auto>
+		<id>84</id>
+		<mark>Lexus</mark>
+		<mudel>LS</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">2786</hind>
+	</auto>
+	<auto>
+		<id>85</id>
+		<mark>Scion</mark>
+		<mudel>xD</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">616</hind>
+	</auto>
+	<auto>
+		<id>86</id>
+		<mark>Saab</mark>
+		<mudel>9-5</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">834</hind>
+	</auto>
+	<auto>
+		<id>87</id>
+		<mark>Aptera</mark>
+		<mudel>Type-1h</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8315</hind>
+	</auto>
+	<auto>
+		<id>88</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Am</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">3560</hind>
+	</auto>
+	<auto>
+		<id>89</id>
+		<mark>Chevrolet</mark>
+		<mudel>Astro</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1700</hind>
+	</auto>
+	<auto>
+		<id>90</id>
+		<mark>Acura</mark>
+		<mudel>TL</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">1475</hind>
+	</auto>
+	<auto>
+		<id>91</id>
+		<mark>Maserati</mark>
+		<mudel>Quattroporte</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">869</hind>
+	</auto>
+	<auto>
+		<id>92</id>
+		<mark>Nissan</mark>
+		<mudel>Frontier</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1990</hind>
+	</auto>
+	<auto>
+		<id>93</id>
+		<mark>Subaru</mark>
+		<mudel>Brat</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">9261</hind>
+	</auto>
+	<auto>
+		<id>94</id>
+		<mark>Dodge</mark>
+		<mudel>Daytona</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">9512</hind>
+	</auto>
+	<auto>
+		<id>95</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3899</hind>
+	</auto>
+	<auto>
+		<id>96</id>
+		<mark>Mercury</mark>
+		<mudel>Mountaineer</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1579</hind>
+	</auto>
+	<auto>
+		<id>97</id>
+		<mark>Pontiac</mark>
+		<mudel>Montana</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6677</hind>
+	</auto>
+	<auto>
+		<id>98</id>
+		<mark>GMC</mark>
+		<mudel>1500 Club Coupe</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4965</hind>
+	</auto>
+	<auto>
+		<id>99</id>
+		<mark>Chevrolet</mark>
+		<mudel>Blazer</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4222</hind>
+	</auto>
+	<auto>
+		<id>100</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>C-Class</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">5569</hind>
+	</auto>
+	<auto>
+		<id>101</id>
+		<mark>Volkswagen</mark>
+		<mudel>rio</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">8546</hind>
+	</auto>
+	<auto>
+		<id>102</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Bravada</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2974</hind>
+	</auto>
+	<auto>
+		<id>103</id>
+		<mark>Jaguar</mark>
+		<mudel>S-Type</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6823</hind>
+	</auto>
+	<auto>
+		<id>104</id>
+		<mark>Dodge</mark>
+		<mudel>Caravan</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">886</hind>
+	</auto>
+	<auto>
+		<id>105</id>
+		<mark>Volvo</mark>
+		<mudel>240</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">7720</hind>
+	</auto>
+	<auto>
+		<id>106</id>
+		<mark>Ford</mark>
+		<mudel>F-Series</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">2234</hind>
+	</auto>
+	<auto>
+		<id>107</id>
+		<mark>Toyota</mark>
+		<mudel>Venza</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5659</hind>
+	</auto>
+	<auto>
+		<id>108</id>
+		<mark>Dodge</mark>
+		<mudel>Ram</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">5357</hind>
+	</auto>
+	<auto>
+		<id>109</id>
+		<mark>BMW</mark>
+		<mudel>X5</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">9201</hind>
+	</auto>
+	<auto>
+		<id>110</id>
+		<mark>Lamborghini</mark>
+		<mudel>Countach</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">4809</hind>
+	</auto>
+	<auto>
+		<id>111</id>
+		<mark>Suzuki</mark>
+		<mudel>Grand Vitara</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5404</hind>
+	</auto>
+	<auto>
+		<id>112</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6585</hind>
+	</auto>
+	<auto>
+		<id>113</id>
+		<mark>Suzuki</mark>
+		<mudel>Verona</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">9917</hind>
+	</auto>
+	<auto>
+		<id>114</id>
+		<mark>Toyota</mark>
+		<mudel>Paseo</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3514</hind>
+	</auto>
+	<auto>
+		<id>115</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">1334</hind>
+	</auto>
+	<auto>
+		<id>116</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 1500</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">736</hind>
+	</auto>
+	<auto>
+		<id>117</id>
+		<mark>Isuzu</mark>
+		<mudel>Amigo</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">8500</hind>
+	</auto>
+	<auto>
+		<id>118</id>
+		<mark>Saab</mark>
+		<mudel>9000</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4236</hind>
+	</auto>
+	<auto>
+		<id>119</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">404</hind>
+	</auto>
+	<auto>
+		<id>120</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7514</hind>
+	</auto>
+	<auto>
+		<id>121</id>
+		<mark>Mazda</mark>
+		<mudel>MPV</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">554</hind>
+	</auto>
+	<auto>
+		<id>122</id>
+		<mark>Volkswagen</mark>
+		<mudel>Jetta</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">4817</hind>
+	</auto>
+	<auto>
+		<id>123</id>
+		<mark>Buick</mark>
+		<mudel>Skyhawk</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">724</hind>
+	</auto>
+	<auto>
+		<id>124</id>
+		<mark>GMC</mark>
+		<mudel>Safari</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">8554</hind>
+	</auto>
+	<auto>
+		<id>125</id>
+		<mark>Isuzu</mark>
+		<mudel>i-370</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">8440</hind>
+	</auto>
+	<auto>
+		<id>126</id>
+		<mark>Nissan</mark>
+		<mudel>300ZX</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4817</hind>
+	</auto>
+	<auto>
+		<id>127</id>
+		<mark>Ford</mark>
+		<mudel>F350</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">9455</hind>
+	</auto>
+	<auto>
+		<id>128</id>
+		<mark>Audi</mark>
+		<mudel>R8</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6823</hind>
+	</auto>
+	<auto>
+		<id>129</id>
+		<mark>Acura</mark>
+		<mudel>RDX</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9882</hind>
+	</auto>
+	<auto>
+		<id>130</id>
+		<mark>Nissan</mark>
+		<mudel>240SX</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">7251</hind>
+	</auto>
+	<auto>
+		<id>131</id>
+		<mark>Jeep</mark>
+		<mudel>Wrangler</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">4047</hind>
+	</auto>
+	<auto>
+		<id>132</id>
+		<mark>Jeep</mark>
+		<mudel>Cherokee</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">5173</hind>
+	</auto>
+	<auto>
+		<id>133</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">4502</hind>
+	</auto>
+	<auto>
+		<id>134</id>
+		<mark>Volkswagen</mark>
+		<mudel>GLI</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">1954</hind>
+	</auto>
+	<auto>
+		<id>135</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">2358</hind>
+	</auto>
+	<auto>
+		<id>136</id>
+		<mark>Chevrolet</mark>
+		<mudel>Sportvan G10</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">8791</hind>
+	</auto>
+	<auto>
+		<id>137</id>
+		<mark>Audi</mark>
+		<mudel>80</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">6564</hind>
+	</auto>
+	<auto>
+		<id>138</id>
+		<mark>Dodge</mark>
+		<mudel>Durango</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">9515</hind>
+	</auto>
+	<auto>
+		<id>139</id>
+		<mark>Nissan</mark>
+		<mudel>370Z</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">7672</hind>
+	</auto>
+	<auto>
+		<id>140</id>
+		<mark>Land Rover</mark>
+		<mudel>Discovery</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5855</hind>
+	</auto>
+	<auto>
+		<id>141</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">2678</hind>
+	</auto>
+	<auto>
+		<id>142</id>
+		<mark>Jeep</mark>
+		<mudel>Grand Cherokee</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">6106</hind>
+	</auto>
+	<auto>
+		<id>143</id>
+		<mark>Mazda</mark>
+		<mudel>MX-5</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">3960</hind>
+	</auto>
+	<auto>
+		<id>144</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">1607</hind>
+	</auto>
+	<auto>
+		<id>145</id>
+		<mark>Toyota</mark>
+		<mudel>Land Cruiser</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2553</hind>
+	</auto>
+	<auto>
+		<id>146</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>500SEL</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8354</hind>
+	</auto>
+	<auto>
+		<id>147</id>
+		<mark>Chevrolet</mark>
+		<mudel>Tahoe</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">4276</hind>
+	</auto>
+	<auto>
+		<id>148</id>
+		<mark>Lexus</mark>
+		<mudel>LX</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">4443</hind>
+	</auto>
+	<auto>
+		<id>149</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 2500HD</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4908</hind>
+	</auto>
+	<auto>
+		<id>150</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">1388</hind>
+	</auto>
+	<auto>
+		<id>151</id>
+		<mark>Lotus</mark>
+		<mudel>Exige</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">2530</hind>
+	</auto>
+	<auto>
+		<id>152</id>
+		<mark>Pontiac</mark>
+		<mudel>Parisienne</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">2356</hind>
+	</auto>
+	<auto>
+		<id>153</id>
+		<mark>GMC</mark>
+		<mudel>3500</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">5853</hind>
+	</auto>
+	<auto>
+		<id>154</id>
+		<mark>GMC</mark>
+		<mudel>Savana 3500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">8512</hind>
+	</auto>
+	<auto>
+		<id>155</id>
+		<mark>Lincoln</mark>
+		<mudel>Town Car</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5278</hind>
+	</auto>
+	<auto>
+		<id>156</id>
+		<mark>Hyundai</mark>
+		<mudel>Sonata</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3752</hind>
+	</auto>
+	<auto>
+		<id>157</id>
+		<mark>Kia</mark>
+		<mudel>Rio</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2142</hind>
+	</auto>
+	<auto>
+		<id>158</id>
+		<mark>Acura</mark>
+		<mudel>RL</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5293</hind>
+	</auto>
+	<auto>
+		<id>159</id>
+		<mark>Pontiac</mark>
+		<mudel>G6</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6610</hind>
+	</auto>
+	<auto>
+		<id>160</id>
+		<mark>GMC</mark>
+		<mudel>Envoy XL</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6632</hind>
+	</auto>
+	<auto>
+		<id>161</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4236</hind>
+	</auto>
+	<auto>
+		<id>162</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Lancer</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">880</hind>
+	</auto>
+	<auto>
+		<id>163</id>
+		<mark>Jeep</mark>
+		<mudel>Grand Cherokee</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6618</hind>
+	</auto>
+	<auto>
+		<id>164</id>
+		<mark>Toyota</mark>
+		<mudel>Tundra</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4130</hind>
+	</auto>
+	<auto>
+		<id>165</id>
+		<mark>Hyundai</mark>
+		<mudel>Accent</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2884</hind>
+	</auto>
+	<auto>
+		<id>166</id>
+		<mark>Ford</mark>
+		<mudel>Freestyle</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">5316</hind>
+	</auto>
+	<auto>
+		<id>167</id>
+		<mark>Nissan</mark>
+		<mudel>350Z</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">747</hind>
+	</auto>
+	<auto>
+		<id>168</id>
+		<mark>Maybach</mark>
+		<mudel>62</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3441</hind>
+	</auto>
+	<auto>
+		<id>169</id>
+		<mark>Geo</mark>
+		<mudel>Tracker</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">4281</hind>
+	</auto>
+	<auto>
+		<id>170</id>
+		<mark>Ford</mark>
+		<mudel>E-Series</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1770</hind>
+	</auto>
+	<auto>
+		<id>171</id>
+		<mark>Ford</mark>
+		<mudel>Thunderbird</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1593</hind>
+	</auto>
+	<auto>
+		<id>172</id>
+		<mark>Dodge</mark>
+		<mudel>Challenger</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">4330</hind>
+	</auto>
+	<auto>
+		<id>173</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Cutlass Supreme</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1430</hind>
+	</auto>
+	<auto>
+		<id>174</id>
+		<mark>Audi</mark>
+		<mudel>S6</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7807</hind>
+	</auto>
+	<auto>
+		<id>175</id>
+		<mark>Porsche</mark>
+		<mudel>Cayenne</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">1717</hind>
+	</auto>
+	<auto>
+		<id>176</id>
+		<mark>Nissan</mark>
+		<mudel>Titan</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1097</hind>
+	</auto>
+	<auto>
+		<id>177</id>
+		<mark>Volkswagen</mark>
+		<mudel>Corrado</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">882</hind>
+	</auto>
+	<auto>
+		<id>178</id>
+		<mark>Lexus</mark>
+		<mudel>RX</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">6974</hind>
+	</auto>
+	<auto>
+		<id>179</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Bravada</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">4939</hind>
+	</auto>
+	<auto>
+		<id>180</id>
+		<mark>Subaru</mark>
+		<mudel>Forester</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">8416</hind>
+	</auto>
+	<auto>
+		<id>181</id>
+		<mark>Toyota</mark>
+		<mudel>4Runner</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6480</hind>
+	</auto>
+	<auto>
+		<id>182</id>
+		<mark>GMC</mark>
+		<mudel>Vandura 2500</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">741</hind>
+	</auto>
+	<auto>
+		<id>183</id>
+		<mark>Chevrolet</mark>
+		<mudel>2500</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2580</hind>
+	</auto>
+	<auto>
+		<id>184</id>
+		<mark>BMW</mark>
+		<mudel>Z4</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">9656</hind>
+	</auto>
+	<auto>
+		<id>185</id>
+		<mark>Chrysler</mark>
+		<mudel>PT Cruiser</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">5978</hind>
+	</auto>
+	<auto>
+		<id>186</id>
+		<mark>Pontiac</mark>
+		<mudel>Firebird</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">8101</hind>
+	</auto>
+	<auto>
+		<id>187</id>
+		<mark>Ford</mark>
+		<mudel>Escape</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">8757</hind>
+	</auto>
+	<auto>
+		<id>188</id>
+		<mark>Nissan</mark>
+		<mudel>240SX</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">5054</hind>
+	</auto>
+	<auto>
+		<id>189</id>
+		<mark>Lexus</mark>
+		<mudel>GX</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1388</hind>
+	</auto>
+	<auto>
+		<id>190</id>
+		<mark>Saab</mark>
+		<mudel>900</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">1528</hind>
+	</auto>
+	<auto>
+		<id>191</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Truck</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">2027</hind>
+	</auto>
+	<auto>
+		<id>192</id>
+		<mark>BMW</mark>
+		<mudel>7 Series</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">9755</hind>
+	</auto>
+	<auto>
+		<id>193</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental Mark VII</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">2230</hind>
+	</auto>
+	<auto>
+		<id>194</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">4078</hind>
+	</auto>
+	<auto>
+		<id>195</id>
+		<mark>Chrysler</mark>
+		<mudel>Concorde</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1133</hind>
+	</auto>
+	<auto>
+		<id>196</id>
+		<mark>Buick</mark>
+		<mudel>Riviera</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">5642</hind>
+	</auto>
+	<auto>
+		<id>197</id>
+		<mark>GMC</mark>
+		<mudel>Savana 2500</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">2764</hind>
+	</auto>
+	<auto>
+		<id>198</id>
+		<mark>Mazda</mark>
+		<mudel>Miata MX-5</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3773</hind>
+	</auto>
+	<auto>
+		<id>199</id>
+		<mark>Lexus</mark>
+		<mudel>SC</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2470</hind>
+	</auto>
+	<auto>
+		<id>200</id>
+		<mark>Suzuki</mark>
+		<mudel>Kizashi</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5577</hind>
+	</auto>
+	<auto>
+		<id>201</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5805</hind>
+	</auto>
+	<auto>
+		<id>202</id>
+		<mark>Ford</mark>
+		<mudel>Transit Connect</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">3536</hind>
+	</auto>
+	<auto>
+		<id>203</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Cutlass Supreme</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">5595</hind>
+	</auto>
+	<auto>
+		<id>204</id>
+		<mark>Nissan</mark>
+		<mudel>Altima</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">6273</hind>
+	</auto>
+	<auto>
+		<id>205</id>
+		<mark>Chevrolet</mark>
+		<mudel>Avalanche 2500</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">5924</hind>
+	</auto>
+	<auto>
+		<id>206</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6756</hind>
+	</auto>
+	<auto>
+		<id>207</id>
+		<mark>BMW</mark>
+		<mudel>X3</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2500</hind>
+	</auto>
+	<auto>
+		<id>208</id>
+		<mark>Toyota</mark>
+		<mudel>Corolla</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9694</hind>
+	</auto>
+	<auto>
+		<id>209</id>
+		<mark>Bentley</mark>
+		<mudel>Continental Super</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3335</hind>
+	</auto>
+	<auto>
+		<id>210</id>
+		<mark>Volkswagen</mark>
+		<mudel>GTI</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">8435</hind>
+	</auto>
+	<auto>
+		<id>211</id>
+		<mark>Maserati</mark>
+		<mudel>Quattroporte</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">3857</hind>
+	</auto>
+	<auto>
+		<id>212</id>
+		<mark>Ford</mark>
+		<mudel>Ranger</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4176</hind>
+	</auto>
+	<auto>
+		<id>213</id>
+		<mark>Volkswagen</mark>
+		<mudel>GTI</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8128</hind>
+	</auto>
+	<auto>
+		<id>214</id>
+		<mark>Infiniti</mark>
+		<mudel>I</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">9817</hind>
+	</auto>
+	<auto>
+		<id>215</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">2720</hind>
+	</auto>
+	<auto>
+		<id>216</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SL-Class</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1428</hind>
+	</auto>
+	<auto>
+		<id>217</id>
+		<mark>Plymouth</mark>
+		<mudel>Voyager</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">8853</hind>
+	</auto>
+	<auto>
+		<id>218</id>
+		<mark>GMC</mark>
+		<mudel>Envoy</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">421</hind>
+	</auto>
+	<auto>
+		<id>219</id>
+		<mark>Subaru</mark>
+		<mudel>Legacy</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">4033</hind>
+	</auto>
+	<auto>
+		<id>220</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8379</hind>
+	</auto>
+	<auto>
+		<id>221</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">8532</hind>
+	</auto>
+	<auto>
+		<id>222</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">8542</hind>
+	</auto>
+	<auto>
+		<id>223</id>
+		<mark>Subaru</mark>
+		<mudel>Forester</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">3704</hind>
+	</auto>
+	<auto>
+		<id>224</id>
+		<mark>BMW</mark>
+		<mudel>5 Series</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8104</hind>
+	</auto>
+	<auto>
+		<id>225</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 2500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">1914</hind>
+	</auto>
+	<auto>
+		<id>226</id>
+		<mark>GMC</mark>
+		<mudel>3500</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">9856</hind>
+	</auto>
+	<auto>
+		<id>227</id>
+		<mark>Lotus</mark>
+		<mudel>Elise</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8027</hind>
+	</auto>
+	<auto>
+		<id>228</id>
+		<mark>Volkswagen</mark>
+		<mudel>GTI</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">2145</hind>
+	</auto>
+	<auto>
+		<id>229</id>
+		<mark>Hummer</mark>
+		<mudel>H2</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">398</hind>
+	</auto>
+	<auto>
+		<id>230</id>
+		<mark>Saturn</mark>
+		<mudel>VUE</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9229</hind>
+	</auto>
+	<auto>
+		<id>231</id>
+		<mark>Suzuki</mark>
+		<mudel>Daewoo Magnus</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4734</hind>
+	</auto>
+	<auto>
+		<id>232</id>
+		<mark>Ford</mark>
+		<mudel>Bronco</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3031</hind>
+	</auto>
+	<auto>
+		<id>233</id>
+		<mark>GMC</mark>
+		<mudel>Suburban 1500</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4283</hind>
+	</auto>
+	<auto>
+		<id>234</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">6988</hind>
+	</auto>
+	<auto>
+		<id>235</id>
+		<mark>Acura</mark>
+		<mudel>Integra</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">9473</hind>
+	</auto>
+	<auto>
+		<id>236</id>
+		<mark>Dodge</mark>
+		<mudel>Stratus</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">508</hind>
+	</auto>
+	<auto>
+		<id>237</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">7578</hind>
+	</auto>
+	<auto>
+		<id>238</id>
+		<mark>Dodge</mark>
+		<mudel>Sprinter</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">3331</hind>
+	</auto>
+	<auto>
+		<id>239</id>
+		<mark>Nissan</mark>
+		<mudel>Cube</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">7838</hind>
+	</auto>
+	<auto>
+		<id>240</id>
+		<mark>Toyota</mark>
+		<mudel>TundraMax</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">8498</hind>
+	</auto>
+	<auto>
+		<id>241</id>
+		<mark>Chevrolet</mark>
+		<mudel>Lumina</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">1500</hind>
+	</auto>
+	<auto>
+		<id>242</id>
+		<mark>Ford</mark>
+		<mudel>E350</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">668</hind>
+	</auto>
+	<auto>
+		<id>243</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4849</hind>
+	</auto>
+	<auto>
+		<id>244</id>
+		<mark>Buick</mark>
+		<mudel>LaCrosse</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3386</hind>
+	</auto>
+	<auto>
+		<id>245</id>
+		<mark>Audi</mark>
+		<mudel>100</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">5051</hind>
+	</auto>
+	<auto>
+		<id>246</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1975</hind>
+	</auto>
+	<auto>
+		<id>247</id>
+		<mark>Mazda</mark>
+		<mudel>Mazda5</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">970</hind>
+	</auto>
+	<auto>
+		<id>248</id>
+		<mark>Chevrolet</mark>
+		<mudel>Suburban 2500</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">3942</hind>
+	</auto>
+	<auto>
+		<id>249</id>
+		<mark>Audi</mark>
+		<mudel>S5</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6850</hind>
+	</auto>
+	<auto>
+		<id>250</id>
+		<mark>Chrysler</mark>
+		<mudel>Voyager</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">8590</hind>
+	</auto>
+	<auto>
+		<id>251</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Bravada</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">8592</hind>
+	</auto>
+	<auto>
+		<id>252</id>
+		<mark>Saturn</mark>
+		<mudel>VUE</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">4757</hind>
+	</auto>
+	<auto>
+		<id>253</id>
+		<mark>Lexus</mark>
+		<mudel>GS</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5345</hind>
+	</auto>
+	<auto>
+		<id>254</id>
+		<mark>Dodge</mark>
+		<mudel>Caravan</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6970</hind>
+	</auto>
+	<auto>
+		<id>255</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Expo</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">8477</hind>
+	</auto>
+	<auto>
+		<id>256</id>
+		<mark>Chevrolet</mark>
+		<mudel>Camaro</mudel>
+		<aasta>1981</aasta>
+		<hind valuuta="euro">3729</hind>
+	</auto>
+	<auto>
+		<id>257</id>
+		<mark>Lincoln</mark>
+		<mudel>Town Car</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">1730</hind>
+	</auto>
+	<auto>
+		<id>258</id>
+		<mark>Buick</mark>
+		<mudel>Regal</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">5189</hind>
+	</auto>
+	<auto>
+		<id>259</id>
+		<mark>Audi</mark>
+		<mudel>5000CS Quattro</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">5580</hind>
+	</auto>
+	<auto>
+		<id>260</id>
+		<mark>Volkswagen</mark>
+		<mudel>GTI</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">3296</hind>
+	</auto>
+	<auto>
+		<id>261</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>300SL</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">3036</hind>
+	</auto>
+	<auto>
+		<id>262</id>
+		<mark>Daewoo</mark>
+		<mudel>Nubira</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">5501</hind>
+	</auto>
+	<auto>
+		<id>263</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Cutlass Supreme</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">8557</hind>
+	</auto>
+	<auto>
+		<id>264</id>
+		<mark>Volkswagen</mark>
+		<mudel>Passat</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">428</hind>
+	</auto>
+	<auto>
+		<id>265</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">7210</hind>
+	</auto>
+	<auto>
+		<id>266</id>
+		<mark>Ford</mark>
+		<mudel>LTD Crown Victoria</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">7483</hind>
+	</auto>
+	<auto>
+		<id>267</id>
+		<mark>Lexus</mark>
+		<mudel>GS</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7121</hind>
+	</auto>
+	<auto>
+		<id>268</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">1191</hind>
+	</auto>
+	<auto>
+		<id>269</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">2721</hind>
+	</auto>
+	<auto>
+		<id>270</id>
+		<mark>Lexus</mark>
+		<mudel>IS</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1850</hind>
+	</auto>
+	<auto>
+		<id>271</id>
+		<mark>Geo</mark>
+		<mudel>Tracker</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">3110</hind>
+	</auto>
+	<auto>
+		<id>272</id>
+		<mark>Honda</mark>
+		<mudel>Insight</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">3222</hind>
+	</auto>
+	<auto>
+		<id>273</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">7865</hind>
+	</auto>
+	<auto>
+		<id>274</id>
+		<mark>Cadillac</mark>
+		<mudel>Escalade EXT</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">8966</hind>
+	</auto>
+	<auto>
+		<id>275</id>
+		<mark>Dodge</mark>
+		<mudel>Dakota Club</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">8156</hind>
+	</auto>
+	<auto>
+		<id>276</id>
+		<mark>Chevrolet</mark>
+		<mudel>Impala</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5055</hind>
+	</auto>
+	<auto>
+		<id>277</id>
+		<mark>Audi</mark>
+		<mudel>S6</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3334</hind>
+	</auto>
+	<auto>
+		<id>278</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">9339</hind>
+	</auto>
+	<auto>
+		<id>279</id>
+		<mark>Scion</mark>
+		<mudel>xB</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">435</hind>
+	</auto>
+	<auto>
+		<id>280</id>
+		<mark>Audi</mark>
+		<mudel>TT</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">9371</hind>
+	</auto>
+	<auto>
+		<id>281</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CLK-Class</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5051</hind>
+	</auto>
+	<auto>
+		<id>282</id>
+		<mark>Bentley</mark>
+		<mudel>Continental GT</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3014</hind>
+	</auto>
+	<auto>
+		<id>283</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">9268</hind>
+	</auto>
+	<auto>
+		<id>284</id>
+		<mark>Chevrolet</mark>
+		<mudel>Colorado</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9098</hind>
+	</auto>
+	<auto>
+		<id>285</id>
+		<mark>Toyota</mark>
+		<mudel>TundraMax</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5624</hind>
+	</auto>
+	<auto>
+		<id>286</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">1758</hind>
+	</auto>
+	<auto>
+		<id>287</id>
+		<mark>Dodge</mark>
+		<mudel>Neon</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3190</hind>
+	</auto>
+	<auto>
+		<id>288</id>
+		<mark>GMC</mark>
+		<mudel>Yukon Denali</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2201</hind>
+	</auto>
+	<auto>
+		<id>289</id>
+		<mark>Mercury</mark>
+		<mudel>Cougar</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">9035</hind>
+	</auto>
+	<auto>
+		<id>290</id>
+		<mark>Toyota</mark>
+		<mudel>T100</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">4581</hind>
+	</auto>
+	<auto>
+		<id>291</id>
+		<mark>Dodge</mark>
+		<mudel>Challenger</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5491</hind>
+	</auto>
+	<auto>
+		<id>292</id>
+		<mark>Mazda</mark>
+		<mudel>626</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6451</hind>
+	</auto>
+	<auto>
+		<id>293</id>
+		<mark>Isuzu</mark>
+		<mudel>Rodeo Sport</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">4399</hind>
+	</auto>
+	<auto>
+		<id>294</id>
+		<mark>Austin</mark>
+		<mudel>Mini Cooper</mudel>
+		<aasta>1961</aasta>
+		<hind valuuta="euro">1711</hind>
+	</auto>
+	<auto>
+		<id>295</id>
+		<mark>Acura</mark>
+		<mudel>ZDX</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">4224</hind>
+	</auto>
+	<auto>
+		<id>296</id>
+		<mark>BMW</mark>
+		<mudel>5 Series</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">7171</hind>
+	</auto>
+	<auto>
+		<id>297</id>
+		<mark>Chevrolet</mark>
+		<mudel>Colorado</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8943</hind>
+	</auto>
+	<auto>
+		<id>298</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">4851</hind>
+	</auto>
+	<auto>
+		<id>299</id>
+		<mark>Honda</mark>
+		<mudel>Prelude</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2665</hind>
+	</auto>
+	<auto>
+		<id>300</id>
+		<mark>Toyota</mark>
+		<mudel>Venza</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">7133</hind>
+	</auto>
+	<auto>
+		<id>301</id>
+		<mark>Honda</mark>
+		<mudel>S2000</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">9781</hind>
+	</auto>
+	<auto>
+		<id>302</id>
+		<mark>Kia</mark>
+		<mudel>Sedona</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">6597</hind>
+	</auto>
+	<auto>
+		<id>303</id>
+		<mark>Land Rover</mark>
+		<mudel>Defender 90</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2748</hind>
+	</auto>
+	<auto>
+		<id>304</id>
+		<mark>Cadillac</mark>
+		<mudel>Sixty Special</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4613</hind>
+	</auto>
+	<auto>
+		<id>305</id>
+		<mark>BMW</mark>
+		<mudel>M6</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">3689</hind>
+	</auto>
+	<auto>
+		<id>306</id>
+		<mark>Ford</mark>
+		<mudel>Fusion</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">8364</hind>
+	</auto>
+	<auto>
+		<id>307</id>
+		<mark>Mazda</mark>
+		<mudel>Miata MX-5</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2016</hind>
+	</auto>
+	<auto>
+		<id>308</id>
+		<mark>Fillmore</mark>
+		<mudel>Fillmore</mudel>
+		<aasta>1960</aasta>
+		<hind valuuta="euro">5277</hind>
+	</auto>
+	<auto>
+		<id>309</id>
+		<mark>Lincoln</mark>
+		<mudel>MKT</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">927</hind>
+	</auto>
+	<auto>
+		<id>310</id>
+		<mark>Lexus</mark>
+		<mudel>LX</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">6542</hind>
+	</auto>
+	<auto>
+		<id>311</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">3137</hind>
+	</auto>
+	<auto>
+		<id>312</id>
+		<mark>Audi</mark>
+		<mudel>5000S</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">1572</hind>
+	</auto>
+	<auto>
+		<id>313</id>
+		<mark>Pontiac</mark>
+		<mudel>Bonneville</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1336</hind>
+	</auto>
+	<auto>
+		<id>314</id>
+		<mark>Spyker</mark>
+		<mudel>C8 Double 12 S</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7004</hind>
+	</auto>
+	<auto>
+		<id>315</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">8428</hind>
+	</auto>
+	<auto>
+		<id>316</id>
+		<mark>GMC</mark>
+		<mudel>Savana 1500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">2107</hind>
+	</auto>
+	<auto>
+		<id>317</id>
+		<mark>Toyota</mark>
+		<mudel>T100 Xtra</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">813</hind>
+	</auto>
+	<auto>
+		<id>318</id>
+		<mark>Infiniti</mark>
+		<mudel>FX</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">9005</hind>
+	</auto>
+	<auto>
+		<id>319</id>
+		<mark>Kia</mark>
+		<mudel>Amanti</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">1592</hind>
+	</auto>
+	<auto>
+		<id>320</id>
+		<mark>Chevrolet</mark>
+		<mudel>Beretta</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">1995</hind>
+	</auto>
+	<auto>
+		<id>321</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 1500 Club</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">4527</hind>
+	</auto>
+	<auto>
+		<id>322</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Truck</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">4494</hind>
+	</auto>
+	<auto>
+		<id>323</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">9467</hind>
+	</auto>
+	<auto>
+		<id>324</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">2895</hind>
+	</auto>
+	<auto>
+		<id>325</id>
+		<mark>Isuzu</mark>
+		<mudel>Hombre Space</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">8922</hind>
+	</auto>
+	<auto>
+		<id>326</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Chariot</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">9831</hind>
+	</auto>
+	<auto>
+		<id>327</id>
+		<mark>Volkswagen</mark>
+		<mudel>Rabbit</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">2085</hind>
+	</auto>
+	<auto>
+		<id>328</id>
+		<mark>Pontiac</mark>
+		<mudel>Montana</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">8210</hind>
+	</auto>
+	<auto>
+		<id>329</id>
+		<mark>Subaru</mark>
+		<mudel>Justy</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">7899</hind>
+	</auto>
+	<auto>
+		<id>330</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CL-Class</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">1737</hind>
+	</auto>
+	<auto>
+		<id>331</id>
+		<mark>BMW</mark>
+		<mudel>530</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">6042</hind>
+	</auto>
+	<auto>
+		<id>332</id>
+		<mark>Audi</mark>
+		<mudel>S5</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">6666</hind>
+	</auto>
+	<auto>
+		<id>333</id>
+		<mark>Aston Martin</mark>
+		<mudel>DBS</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5885</hind>
+	</auto>
+	<auto>
+		<id>334</id>
+		<mark>Lotus</mark>
+		<mudel>Esprit</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">1279</hind>
+	</auto>
+	<auto>
+		<id>335</id>
+		<mark>Mercury</mark>
+		<mudel>Cougar</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">8928</hind>
+	</auto>
+	<auto>
+		<id>336</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>G-Class</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">4371</hind>
+	</auto>
+	<auto>
+		<id>337</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 1500</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">4040</hind>
+	</auto>
+	<auto>
+		<id>338</id>
+		<mark>Chevrolet</mark>
+		<mudel>Equinox</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5814</hind>
+	</auto>
+	<auto>
+		<id>339</id>
+		<mark>Hyundai</mark>
+		<mudel>Elantra</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8914</hind>
+	</auto>
+	<auto>
+		<id>340</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2999</hind>
+	</auto>
+	<auto>
+		<id>341</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Lancer Evolution</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">6987</hind>
+	</auto>
+	<auto>
+		<id>342</id>
+		<mark>Honda</mark>
+		<mudel>Odyssey</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8021</hind>
+	</auto>
+	<auto>
+		<id>343</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 2500</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">3702</hind>
+	</auto>
+	<auto>
+		<id>344</id>
+		<mark>Buick</mark>
+		<mudel>Skylark</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">8970</hind>
+	</auto>
+	<auto>
+		<id>345</id>
+		<mark>Suzuki</mark>
+		<mudel>Esteem</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">5038</hind>
+	</auto>
+	<auto>
+		<id>346</id>
+		<mark>Aston Martin</mark>
+		<mudel>DB9</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">6118</hind>
+	</auto>
+	<auto>
+		<id>347</id>
+		<mark>Ferrari</mark>
+		<mudel>F430 Spider</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7057</hind>
+	</auto>
+	<auto>
+		<id>348</id>
+		<mark>Nissan</mark>
+		<mudel>Xterra</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">7364</hind>
+	</auto>
+	<auto>
+		<id>349</id>
+		<mark>BMW</mark>
+		<mudel>Z3</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">6936</hind>
+	</auto>
+	<auto>
+		<id>350</id>
+		<mark>Ford</mark>
+		<mudel>Fusion</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">2521</hind>
+	</auto>
+	<auto>
+		<id>351</id>
+		<mark>Audi</mark>
+		<mudel>S8</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">9460</hind>
+	</auto>
+	<auto>
+		<id>352</id>
+		<mark>Ford</mark>
+		<mudel>F350</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3083</hind>
+	</auto>
+	<auto>
+		<id>353</id>
+		<mark>Mazda</mark>
+		<mudel>MPV</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">9532</hind>
+	</auto>
+	<auto>
+		<id>354</id>
+		<mark>Nissan</mark>
+		<mudel>Altima</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">7912</hind>
+	</auto>
+	<auto>
+		<id>355</id>
+		<mark>Cadillac</mark>
+		<mudel>Seville</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2076</hind>
+	</auto>
+	<auto>
+		<id>356</id>
+		<mark>Ford</mark>
+		<mudel>Aerostar</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">1434</hind>
+	</auto>
+	<auto>
+		<id>357</id>
+		<mark>Hyundai</mark>
+		<mudel>Elantra</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1912</hind>
+	</auto>
+	<auto>
+		<id>358</id>
+		<mark>Oldsmobile</mark>
+		<mudel>LSS</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2166</hind>
+	</auto>
+	<auto>
+		<id>359</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental Mark VII</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">2575</hind>
+	</auto>
+	<auto>
+		<id>360</id>
+		<mark>Cadillac</mark>
+		<mudel>SRX</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">4068</hind>
+	</auto>
+	<auto>
+		<id>361</id>
+		<mark>Hyundai</mark>
+		<mudel>Sonata</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6139</hind>
+	</auto>
+	<auto>
+		<id>362</id>
+		<mark>Spyker</mark>
+		<mudel>C8</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6262</hind>
+	</auto>
+	<auto>
+		<id>363</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SLK-Class</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2567</hind>
+	</auto>
+	<auto>
+		<id>364</id>
+		<mark>Chevrolet</mark>
+		<mudel>Suburban 2500</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3542</hind>
+	</auto>
+	<auto>
+		<id>365</id>
+		<mark>Rolls-Royce</mark>
+		<mudel>Phantom</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2793</hind>
+	</auto>
+	<auto>
+		<id>366</id>
+		<mark>Cadillac</mark>
+		<mudel>CTS</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">2266</hind>
+	</auto>
+	<auto>
+		<id>367</id>
+		<mark>Chevrolet</mark>
+		<mudel>HHR</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">496</hind>
+	</auto>
+	<auto>
+		<id>368</id>
+		<mark>Dodge</mark>
+		<mudel>Viper</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8662</hind>
+	</auto>
+	<auto>
+		<id>369</id>
+		<mark>Plymouth</mark>
+		<mudel>Laser</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">9233</hind>
+	</auto>
+	<auto>
+		<id>370</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>E-Class</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9729</hind>
+	</auto>
+	<auto>
+		<id>371</id>
+		<mark>Volvo</mark>
+		<mudel>S40</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1375</hind>
+	</auto>
+	<auto>
+		<id>372</id>
+		<mark>Nissan</mark>
+		<mudel>Quest</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">9476</hind>
+	</auto>
+	<auto>
+		<id>373</id>
+		<mark>Chrysler</mark>
+		<mudel>300</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4082</hind>
+	</auto>
+	<auto>
+		<id>374</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">9725</hind>
+	</auto>
+	<auto>
+		<id>375</id>
+		<mark>Chevrolet</mark>
+		<mudel>2500</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">948</hind>
+	</auto>
+	<auto>
+		<id>376</id>
+		<mark>Lotus</mark>
+		<mudel>Exige</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">8816</hind>
+	</auto>
+	<auto>
+		<id>377</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1977</aasta>
+		<hind valuuta="euro">3012</hind>
+	</auto>
+	<auto>
+		<id>378</id>
+		<mark>Saturn</mark>
+		<mudel>VUE</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">6749</hind>
+	</auto>
+	<auto>
+		<id>379</id>
+		<mark>Chevrolet</mark>
+		<mudel>Avalanche</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6216</hind>
+	</auto>
+	<auto>
+		<id>380</id>
+		<mark>Kia</mark>
+		<mudel>Rio</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5951</hind>
+	</auto>
+	<auto>
+		<id>381</id>
+		<mark>Dodge</mark>
+		<mudel>Ram Van 2500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3847</hind>
+	</auto>
+	<auto>
+		<id>382</id>
+		<mark>GMC</mark>
+		<mudel>2500</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1843</hind>
+	</auto>
+	<auto>
+		<id>383</id>
+		<mark>Buick</mark>
+		<mudel>LaCrosse</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">3818</hind>
+	</auto>
+	<auto>
+		<id>384</id>
+		<mark>Acura</mark>
+		<mudel>NSX</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">7311</hind>
+	</auto>
+	<auto>
+		<id>385</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">913</hind>
+	</auto>
+	<auto>
+		<id>386</id>
+		<mark>Toyota</mark>
+		<mudel>Land Cruiser</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">5192</hind>
+	</auto>
+	<auto>
+		<id>387</id>
+		<mark>Dodge</mark>
+		<mudel>Dakota Club</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">7491</hind>
+	</auto>
+	<auto>
+		<id>388</id>
+		<mark>Ford</mark>
+		<mudel>Escort</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">5775</hind>
+	</auto>
+	<auto>
+		<id>389</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 2500</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">8712</hind>
+	</auto>
+	<auto>
+		<id>390</id>
+		<mark>Land Rover</mark>
+		<mudel>Freelander</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">1339</hind>
+	</auto>
+	<auto>
+		<id>391</id>
+		<mark>Infiniti</mark>
+		<mudel>M</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">540</hind>
+	</auto>
+	<auto>
+		<id>392</id>
+		<mark>Lotus</mark>
+		<mudel>Evora</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">2305</hind>
+	</auto>
+	<auto>
+		<id>393</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Regency</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8022</hind>
+	</auto>
+	<auto>
+		<id>394</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Challenger</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">8539</hind>
+	</auto>
+	<auto>
+		<id>395</id>
+		<mark>Ford</mark>
+		<mudel>F350</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">9850</hind>
+	</auto>
+	<auto>
+		<id>396</id>
+		<mark>Cadillac</mark>
+		<mudel>Eldorado</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4930</hind>
+	</auto>
+	<auto>
+		<id>397</id>
+		<mark>Jeep</mark>
+		<mudel>Grand Cherokee</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6664</hind>
+	</auto>
+	<auto>
+		<id>398</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1964</aasta>
+		<hind valuuta="euro">2244</hind>
+	</auto>
+	<auto>
+		<id>399</id>
+		<mark>Pontiac</mark>
+		<mudel>G6</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7969</hind>
+	</auto>
+	<auto>
+		<id>400</id>
+		<mark>Honda</mark>
+		<mudel>Prelude</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7790</hind>
+	</auto>
+	<auto>
+		<id>401</id>
+		<mark>Buick</mark>
+		<mudel>Skyhawk</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">3006</hind>
+	</auto>
+	<auto>
+		<id>402</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">772</hind>
+	</auto>
+	<auto>
+		<id>403</id>
+		<mark>Pontiac</mark>
+		<mudel>Bonneville</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">5913</hind>
+	</auto>
+	<auto>
+		<id>404</id>
+		<mark>Maserati</mark>
+		<mudel>Coupe</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">7556</hind>
+	</auto>
+	<auto>
+		<id>405</id>
+		<mark>Lexus</mark>
+		<mudel>LX</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1864</hind>
+	</auto>
+	<auto>
+		<id>406</id>
+		<mark>Subaru</mark>
+		<mudel>Legacy</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6451</hind>
+	</auto>
+	<auto>
+		<id>407</id>
+		<mark>Dodge</mark>
+		<mudel>Durango</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">750</hind>
+	</auto>
+	<auto>
+		<id>408</id>
+		<mark>Hummer</mark>
+		<mudel>H3</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9815</hind>
+	</auto>
+	<auto>
+		<id>409</id>
+		<mark>Dodge</mark>
+		<mudel>Caliber</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6463</hind>
+	</auto>
+	<auto>
+		<id>410</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 3500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6133</hind>
+	</auto>
+	<auto>
+		<id>411</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6660</hind>
+	</auto>
+	<auto>
+		<id>412</id>
+		<mark>Mazda</mark>
+		<mudel>CX-7</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">5425</hind>
+	</auto>
+	<auto>
+		<id>413</id>
+		<mark>Acura</mark>
+		<mudel>Vigor</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4387</hind>
+	</auto>
+	<auto>
+		<id>414</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">4368</hind>
+	</auto>
+	<auto>
+		<id>415</id>
+		<mark>Isuzu</mark>
+		<mudel>Amigo</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">3604</hind>
+	</auto>
+	<auto>
+		<id>416</id>
+		<mark>BMW</mark>
+		<mudel>330</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">8630</hind>
+	</auto>
+	<auto>
+		<id>417</id>
+		<mark>Scion</mark>
+		<mudel>tC</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">6799</hind>
+	</auto>
+	<auto>
+		<id>418</id>
+		<mark>Porsche</mark>
+		<mudel>Panamera</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3594</hind>
+	</auto>
+	<auto>
+		<id>419</id>
+		<mark>Lincoln</mark>
+		<mudel>Navigator</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4380</hind>
+	</auto>
+	<auto>
+		<id>420</id>
+		<mark>Chevrolet</mark>
+		<mudel>Suburban 1500</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2744</hind>
+	</auto>
+	<auto>
+		<id>421</id>
+		<mark>Nissan</mark>
+		<mudel>JUKE</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">4572</hind>
+	</auto>
+	<auto>
+		<id>422</id>
+		<mark>Saab</mark>
+		<mudel>900</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">6311</hind>
+	</auto>
+	<auto>
+		<id>423</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1340</hind>
+	</auto>
+	<auto>
+		<id>424</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">7793</hind>
+	</auto>
+	<auto>
+		<id>425</id>
+		<mark>Chevrolet</mark>
+		<mudel>Metro</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">9069</hind>
+	</auto>
+	<auto>
+		<id>426</id>
+		<mark>Chevrolet</mark>
+		<mudel>Impala</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">505</hind>
+	</auto>
+	<auto>
+		<id>427</id>
+		<mark>Subaru</mark>
+		<mudel>XT</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">2046</hind>
+	</auto>
+	<auto>
+		<id>428</id>
+		<mark>Mercury</mark>
+		<mudel>Villager</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4486</hind>
+	</auto>
+	<auto>
+		<id>429</id>
+		<mark>Ford</mark>
+		<mudel>Expedition</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4978</hind>
+	</auto>
+	<auto>
+		<id>430</id>
+		<mark>Pontiac</mark>
+		<mudel>LeMans</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">554</hind>
+	</auto>
+	<auto>
+		<id>431</id>
+		<mark>Toyota</mark>
+		<mudel>Truck Xtracab SR5</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">6196</hind>
+	</auto>
+	<auto>
+		<id>432</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Lancer Evolution</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">3296</hind>
+	</auto>
+	<auto>
+		<id>433</id>
+		<mark>Volvo</mark>
+		<mudel>S40</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1841</hind>
+	</auto>
+	<auto>
+		<id>434</id>
+		<mark>Ford</mark>
+		<mudel>Focus</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2758</hind>
+	</auto>
+	<auto>
+		<id>435</id>
+		<mark>Ferrari</mark>
+		<mudel>458 Italia</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3249</hind>
+	</auto>
+	<auto>
+		<id>436</id>
+		<mark>BMW</mark>
+		<mudel>530</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">9754</hind>
+	</auto>
+	<auto>
+		<id>437</id>
+		<mark>Volkswagen</mark>
+		<mudel>Touareg</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4097</hind>
+	</auto>
+	<auto>
+		<id>438</id>
+		<mark>Plymouth</mark>
+		<mudel>Sundance</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">811</hind>
+	</auto>
+	<auto>
+		<id>439</id>
+		<mark>Nissan</mark>
+		<mudel>Sentra</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">4754</hind>
+	</auto>
+	<auto>
+		<id>440</id>
+		<mark>Mazda</mark>
+		<mudel>B-Series Plus</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">3979</hind>
+	</auto>
+	<auto>
+		<id>441</id>
+		<mark>Nissan</mark>
+		<mudel>Armada</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">7672</hind>
+	</auto>
+	<auto>
+		<id>442</id>
+		<mark>Nissan</mark>
+		<mudel>240SX</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">9730</hind>
+	</auto>
+	<auto>
+		<id>443</id>
+		<mark>Buick</mark>
+		<mudel>Hearse</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">8291</hind>
+	</auto>
+	<auto>
+		<id>444</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 3500</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3367</hind>
+	</auto>
+	<auto>
+		<id>445</id>
+		<mark>Hyundai</mark>
+		<mudel>Elantra</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">1145</hind>
+	</auto>
+	<auto>
+		<id>446</id>
+		<mark>BMW</mark>
+		<mudel>5 Series</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9268</hind>
+	</auto>
+	<auto>
+		<id>447</id>
+		<mark>BMW</mark>
+		<mudel>8 Series</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">1879</hind>
+	</auto>
+	<auto>
+		<id>448</id>
+		<mark>GMC</mark>
+		<mudel>1500 Club Coupe</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">3277</hind>
+	</auto>
+	<auto>
+		<id>449</id>
+		<mark>Mazda</mark>
+		<mudel>626</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">5795</hind>
+	</auto>
+	<auto>
+		<id>450</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">7382</hind>
+	</auto>
+	<auto>
+		<id>451</id>
+		<mark>Acura</mark>
+		<mudel>Legend</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1224</hind>
+	</auto>
+	<auto>
+		<id>452</id>
+		<mark>Volkswagen</mark>
+		<mudel>Passat</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">1529</hind>
+	</auto>
+	<auto>
+		<id>453</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6177</hind>
+	</auto>
+	<auto>
+		<id>454</id>
+		<mark>Jeep</mark>
+		<mudel>Patriot</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6165</hind>
+	</auto>
+	<auto>
+		<id>455</id>
+		<mark>Mercury</mark>
+		<mudel>Tracer</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">5215</hind>
+	</auto>
+	<auto>
+		<id>456</id>
+		<mark>Saab</mark>
+		<mudel>9-3</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2595</hind>
+	</auto>
+	<auto>
+		<id>457</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1967</aasta>
+		<hind valuuta="euro">4307</hind>
+	</auto>
+	<auto>
+		<id>458</id>
+		<mark>Ford</mark>
+		<mudel>E250</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2995</hind>
+	</auto>
+	<auto>
+		<id>459</id>
+		<mark>Citroën</mark>
+		<mudel>CX</mudel>
+		<aasta>1974</aasta>
+		<hind valuuta="euro">8890</hind>
+	</auto>
+	<auto>
+		<id>460</id>
+		<mark>Cadillac</mark>
+		<mudel>Eldorado</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2626</hind>
+	</auto>
+	<auto>
+		<id>461</id>
+		<mark>Chevrolet</mark>
+		<mudel>S10</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">3890</hind>
+	</auto>
+	<auto>
+		<id>462</id>
+		<mark>Toyota</mark>
+		<mudel>MR2</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">3878</hind>
+	</auto>
+	<auto>
+		<id>463</id>
+		<mark>Maserati</mark>
+		<mudel>Quattroporte</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6214</hind>
+	</auto>
+	<auto>
+		<id>464</id>
+		<mark>Toyota</mark>
+		<mudel>T100</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">9968</hind>
+	</auto>
+	<auto>
+		<id>465</id>
+		<mark>Pontiac</mark>
+		<mudel>Trans Sport</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">9467</hind>
+	</auto>
+	<auto>
+		<id>466</id>
+		<mark>Ram</mark>
+		<mudel>1500</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5318</hind>
+	</auto>
+	<auto>
+		<id>467</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">6983</hind>
+	</auto>
+	<auto>
+		<id>468</id>
+		<mark>Subaru</mark>
+		<mudel>Impreza</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">3313</hind>
+	</auto>
+	<auto>
+		<id>469</id>
+		<mark>Saab</mark>
+		<mudel>900</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">8605</hind>
+	</auto>
+	<auto>
+		<id>470</id>
+		<mark>Toyota</mark>
+		<mudel>Echo</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">6947</hind>
+	</auto>
+	<auto>
+		<id>471</id>
+		<mark>Acura</mark>
+		<mudel>NSX</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2234</hind>
+	</auto>
+	<auto>
+		<id>472</id>
+		<mark>Chevrolet</mark>
+		<mudel>Camaro</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">1837</hind>
+	</auto>
+	<auto>
+		<id>473</id>
+		<mark>Ford</mark>
+		<mudel>Club Wagon</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">1380</hind>
+	</auto>
+	<auto>
+		<id>474</id>
+		<mark>Volvo</mark>
+		<mudel>S80</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">7368</hind>
+	</auto>
+	<auto>
+		<id>475</id>
+		<mark>Daewoo</mark>
+		<mudel>Lanos</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">7647</hind>
+	</auto>
+	<auto>
+		<id>476</id>
+		<mark>Volkswagen</mark>
+		<mudel>Scirocco</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">4030</hind>
+	</auto>
+	<auto>
+		<id>477</id>
+		<mark>Toyota</mark>
+		<mudel>TundraMax</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">6456</hind>
+	</auto>
+	<auto>
+		<id>478</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CLK-Class</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">1651</hind>
+	</auto>
+	<auto>
+		<id>479</id>
+		<mark>Toyota</mark>
+		<mudel>RAV4</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">990</hind>
+	</auto>
+	<auto>
+		<id>480</id>
+		<mark>Lotus</mark>
+		<mudel>Elan</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">3125</hind>
+	</auto>
+	<auto>
+		<id>481</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4226</hind>
+	</auto>
+	<auto>
+		<id>482</id>
+		<mark>Ford</mark>
+		<mudel>E350</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">1081</hind>
+	</auto>
+	<auto>
+		<id>483</id>
+		<mark>Hyundai</mark>
+		<mudel>Elantra</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">822</hind>
+	</auto>
+	<auto>
+		<id>484</id>
+		<mark>Audi</mark>
+		<mudel>S8</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">5320</hind>
+	</auto>
+	<auto>
+		<id>485</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 2500</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3888</hind>
+	</auto>
+	<auto>
+		<id>486</id>
+		<mark>Audi</mark>
+		<mudel>S8</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4033</hind>
+	</auto>
+	<auto>
+		<id>487</id>
+		<mark>Ford</mark>
+		<mudel>Bronco</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">3596</hind>
+	</auto>
+	<auto>
+		<id>488</id>
+		<mark>Volvo</mark>
+		<mudel>V90</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">4110</hind>
+	</auto>
+	<auto>
+		<id>489</id>
+		<mark>Volkswagen</mark>
+		<mudel>Scirocco</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">2103</hind>
+	</auto>
+	<auto>
+		<id>490</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 2500</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">3893</hind>
+	</auto>
+	<auto>
+		<id>491</id>
+		<mark>Suzuki</mark>
+		<mudel>Esteem</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">6990</hind>
+	</auto>
+	<auto>
+		<id>492</id>
+		<mark>Cadillac</mark>
+		<mudel>CTS</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2721</hind>
+	</auto>
+	<auto>
+		<id>493</id>
+		<mark>Lexus</mark>
+		<mudel>LX</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4024</hind>
+	</auto>
+	<auto>
+		<id>494</id>
+		<mark>Lincoln</mark>
+		<mudel>Navigator</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">4546</hind>
+	</auto>
+	<auto>
+		<id>495</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 3500</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8170</hind>
+	</auto>
+	<auto>
+		<id>496</id>
+		<mark>Isuzu</mark>
+		<mudel>Hombre Space</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">6525</hind>
+	</auto>
+	<auto>
+		<id>497</id>
+		<mark>BMW</mark>
+		<mudel>M3</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">2881</hind>
+	</auto>
+	<auto>
+		<id>498</id>
+		<mark>Land Rover</mark>
+		<mudel>Discovery</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5609</hind>
+	</auto>
+	<auto>
+		<id>499</id>
+		<mark>Toyota</mark>
+		<mudel>Sienna</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4413</hind>
+	</auto>
+	<auto>
+		<id>500</id>
+		<mark>Suzuki</mark>
+		<mudel>XL7</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">5594</hind>
+	</auto>
+	<auto>
+		<id>501</id>
+		<mark>Mercury</mark>
+		<mudel>Sable</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">896</hind>
+	</auto>
+	<auto>
+		<id>502</id>
+		<mark>Hummer</mark>
+		<mudel>H1</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5836</hind>
+	</auto>
+	<auto>
+		<id>503</id>
+		<mark>Buick</mark>
+		<mudel>Skylark</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8114</hind>
+	</auto>
+	<auto>
+		<id>504</id>
+		<mark>GMC</mark>
+		<mudel>2500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">8171</hind>
+	</auto>
+	<auto>
+		<id>505</id>
+		<mark>Chrysler</mark>
+		<mudel>PT Cruiser</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">4858</hind>
+	</auto>
+	<auto>
+		<id>506</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Regency</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3332</hind>
+	</auto>
+	<auto>
+		<id>507</id>
+		<mark>Mitsubishi</mark>
+		<mudel>L300</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">8256</hind>
+	</auto>
+	<auto>
+		<id>508</id>
+		<mark>Nissan</mark>
+		<mudel>Maxima</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2854</hind>
+	</auto>
+	<auto>
+		<id>509</id>
+		<mark>Bentley</mark>
+		<mudel>Arnage</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9343</hind>
+	</auto>
+	<auto>
+		<id>510</id>
+		<mark>Nissan</mark>
+		<mudel>Pathfinder</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2469</hind>
+	</auto>
+	<auto>
+		<id>511</id>
+		<mark>Subaru</mark>
+		<mudel>Impreza</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">829</hind>
+	</auto>
+	<auto>
+		<id>512</id>
+		<mark>Audi</mark>
+		<mudel>A4</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">1413</hind>
+	</auto>
+	<auto>
+		<id>513</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2219</hind>
+	</auto>
+	<auto>
+		<id>514</id>
+		<mark>Cadillac</mark>
+		<mudel>Seville</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">2957</hind>
+	</auto>
+	<auto>
+		<id>515</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5080</hind>
+	</auto>
+	<auto>
+		<id>516</id>
+		<mark>GMC</mark>
+		<mudel>Jimmy</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3519</hind>
+	</auto>
+	<auto>
+		<id>517</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">3214</hind>
+	</auto>
+	<auto>
+		<id>518</id>
+		<mark>Acura</mark>
+		<mudel>TL</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3370</hind>
+	</auto>
+	<auto>
+		<id>519</id>
+		<mark>Dodge</mark>
+		<mudel>Caravan</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">5417</hind>
+	</auto>
+	<auto>
+		<id>520</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Galant</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7415</hind>
+	</auto>
+	<auto>
+		<id>521</id>
+		<mark>Audi</mark>
+		<mudel>A6</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">5485</hind>
+	</auto>
+	<auto>
+		<id>522</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 1500 Club</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">6514</hind>
+	</auto>
+	<auto>
+		<id>523</id>
+		<mark>Toyota</mark>
+		<mudel>MR2</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">5638</hind>
+	</auto>
+	<auto>
+		<id>524</id>
+		<mark>Toyota</mark>
+		<mudel>Prius c</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">3124</hind>
+	</auto>
+	<auto>
+		<id>525</id>
+		<mark>Lexus</mark>
+		<mudel>RX Hybrid</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">4096</hind>
+	</auto>
+	<auto>
+		<id>526</id>
+		<mark>Toyota</mark>
+		<mudel>Prius Plug-in</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7746</hind>
+	</auto>
+	<auto>
+		<id>527</id>
+		<mark>Aston Martin</mark>
+		<mudel>V8 Vantage</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3091</hind>
+	</auto>
+	<auto>
+		<id>528</id>
+		<mark>Volvo</mark>
+		<mudel>C70</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5897</hind>
+	</auto>
+	<auto>
+		<id>529</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero Sport</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">9086</hind>
+	</auto>
+	<auto>
+		<id>530</id>
+		<mark>Buick</mark>
+		<mudel>Enclave</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">2949</hind>
+	</auto>
+	<auto>
+		<id>531</id>
+		<mark>Volvo</mark>
+		<mudel>S60</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">5385</hind>
+	</auto>
+	<auto>
+		<id>532</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4631</hind>
+	</auto>
+	<auto>
+		<id>533</id>
+		<mark>Ford</mark>
+		<mudel>E-Series</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7640</hind>
+	</auto>
+	<auto>
+		<id>534</id>
+		<mark>Mazda</mark>
+		<mudel>626</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">5118</hind>
+	</auto>
+	<auto>
+		<id>535</id>
+		<mark>Volkswagen</mark>
+		<mudel>rio</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1514</hind>
+	</auto>
+	<auto>
+		<id>536</id>
+		<mark>Suzuki</mark>
+		<mudel>SJ</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">5045</hind>
+	</auto>
+	<auto>
+		<id>537</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 3500</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3971</hind>
+	</auto>
+	<auto>
+		<id>538</id>
+		<mark>Nissan</mark>
+		<mudel>NV3500</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">8048</hind>
+	</auto>
+	<auto>
+		<id>539</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>1983</aasta>
+		<hind valuuta="euro">9776</hind>
+	</auto>
+	<auto>
+		<id>540</id>
+		<mark>Ford</mark>
+		<mudel>Five Hundred</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">5917</hind>
+	</auto>
+	<auto>
+		<id>541</id>
+		<mark>Dodge</mark>
+		<mudel>Dakota</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">662</hind>
+	</auto>
+	<auto>
+		<id>542</id>
+		<mark>Nissan</mark>
+		<mudel>Quest</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3648</hind>
+	</auto>
+	<auto>
+		<id>543</id>
+		<mark>Lexus</mark>
+		<mudel>GS</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">6465</hind>
+	</auto>
+	<auto>
+		<id>544</id>
+		<mark>Audi</mark>
+		<mudel>A6</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1066</hind>
+	</auto>
+	<auto>
+		<id>545</id>
+		<mark>Chevrolet</mark>
+		<mudel>Sportvan G30</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">381</hind>
+	</auto>
+	<auto>
+		<id>546</id>
+		<mark>Suzuki</mark>
+		<mudel>Samurai</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">6361</hind>
+	</auto>
+	<auto>
+		<id>547</id>
+		<mark>Ford</mark>
+		<mudel>LTD Crown Victoria</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">5929</hind>
+	</auto>
+	<auto>
+		<id>548</id>
+		<mark>Lamborghini</mark>
+		<mudel>Murciélago</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5160</hind>
+	</auto>
+	<auto>
+		<id>549</id>
+		<mark>Lotus</mark>
+		<mudel>Elise</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5963</hind>
+	</auto>
+	<auto>
+		<id>550</id>
+		<mark>Aston Martin</mark>
+		<mudel>DBS</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6474</hind>
+	</auto>
+	<auto>
+		<id>551</id>
+		<mark>Hyundai</mark>
+		<mudel>XG350</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">9606</hind>
+	</auto>
+	<auto>
+		<id>552</id>
+		<mark>Ford</mark>
+		<mudel>Thunderbird</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">4491</hind>
+	</auto>
+	<auto>
+		<id>553</id>
+		<mark>Toyota</mark>
+		<mudel>Highlander</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">5973</hind>
+	</auto>
+	<auto>
+		<id>554</id>
+		<mark>Kia</mark>
+		<mudel>Sedona</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">9835</hind>
+	</auto>
+	<auto>
+		<id>555</id>
+		<mark>Honda</mark>
+		<mudel>Prelude</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">7831</hind>
+	</auto>
+	<auto>
+		<id>556</id>
+		<mark>Plymouth</mark>
+		<mudel>Grand Voyager</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">5938</hind>
+	</auto>
+	<auto>
+		<id>557</id>
+		<mark>Lexus</mark>
+		<mudel>RX</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8474</hind>
+	</auto>
+	<auto>
+		<id>558</id>
+		<mark>Ford</mark>
+		<mudel>Th!nk</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">7895</hind>
+	</auto>
+	<auto>
+		<id>559</id>
+		<mark>Dodge</mark>
+		<mudel>Viper</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9595</hind>
+	</auto>
+	<auto>
+		<id>560</id>
+		<mark>GMC</mark>
+		<mudel>Envoy</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7742</hind>
+	</auto>
+	<auto>
+		<id>561</id>
+		<mark>GMC</mark>
+		<mudel>1500</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7371</hind>
+	</auto>
+	<auto>
+		<id>562</id>
+		<mark>Lotus</mark>
+		<mudel>Elan</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">4125</hind>
+	</auto>
+	<auto>
+		<id>563</id>
+		<mark>Acura</mark>
+		<mudel>TL</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">2989</hind>
+	</auto>
+	<auto>
+		<id>564</id>
+		<mark>Honda</mark>
+		<mudel>del Sol</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8976</hind>
+	</auto>
+	<auto>
+		<id>565</id>
+		<mark>Chrysler</mark>
+		<mudel>Cirrus</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3700</hind>
+	</auto>
+	<auto>
+		<id>566</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">6155</hind>
+	</auto>
+	<auto>
+		<id>567</id>
+		<mark>Plymouth</mark>
+		<mudel>Voyager</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">9996</hind>
+	</auto>
+	<auto>
+		<id>568</id>
+		<mark>Jeep</mark>
+		<mudel>Grand Cherokee</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6979</hind>
+	</auto>
+	<auto>
+		<id>569</id>
+		<mark>BMW</mark>
+		<mudel>550</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6303</hind>
+	</auto>
+	<auto>
+		<id>570</id>
+		<mark>Fiat</mark>
+		<mudel>500</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6197</hind>
+	</auto>
+	<auto>
+		<id>571</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>1983</aasta>
+		<hind valuuta="euro">6814</hind>
+	</auto>
+	<auto>
+		<id>572</id>
+		<mark>Chevrolet</mark>
+		<mudel>Corvette</mudel>
+		<aasta>1964</aasta>
+		<hind valuuta="euro">7241</hind>
+	</auto>
+	<auto>
+		<id>573</id>
+		<mark>Hummer</mark>
+		<mudel>H2</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">8945</hind>
+	</auto>
+	<auto>
+		<id>574</id>
+		<mark>Ford</mark>
+		<mudel>Escort</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8153</hind>
+	</auto>
+	<auto>
+		<id>575</id>
+		<mark>GMC</mark>
+		<mudel>Sierra 1500</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">4803</hind>
+	</auto>
+	<auto>
+		<id>576</id>
+		<mark>Mercury</mark>
+		<mudel>Topaz</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">8273</hind>
+	</auto>
+	<auto>
+		<id>577</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 3500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">2582</hind>
+	</auto>
+	<auto>
+		<id>578</id>
+		<mark>Chevrolet</mark>
+		<mudel>Avalanche 2500</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">4244</hind>
+	</auto>
+	<auto>
+		<id>579</id>
+		<mark>Toyota</mark>
+		<mudel>Celica</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1922</hind>
+	</auto>
+	<auto>
+		<id>580</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 3500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6078</hind>
+	</auto>
+	<auto>
+		<id>581</id>
+		<mark>Cadillac</mark>
+		<mudel>DTS</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9091</hind>
+	</auto>
+	<auto>
+		<id>582</id>
+		<mark>Mazda</mark>
+		<mudel>Mazdaspeed6</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">7885</hind>
+	</auto>
+	<auto>
+		<id>583</id>
+		<mark>Chevrolet</mark>
+		<mudel>Suburban 1500</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6947</hind>
+	</auto>
+	<auto>
+		<id>584</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">6283</hind>
+	</auto>
+	<auto>
+		<id>585</id>
+		<mark>Toyota</mark>
+		<mudel>Sequoia</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">836</hind>
+	</auto>
+	<auto>
+		<id>586</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1171</hind>
+	</auto>
+	<auto>
+		<id>587</id>
+		<mark>Ford</mark>
+		<mudel>Contour</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">7370</hind>
+	</auto>
+	<auto>
+		<id>588</id>
+		<mark>Acura</mark>
+		<mudel>RDX</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7974</hind>
+	</auto>
+	<auto>
+		<id>589</id>
+		<mark>Lincoln</mark>
+		<mudel>Town Car</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">1317</hind>
+	</auto>
+	<auto>
+		<id>590</id>
+		<mark>Infiniti</mark>
+		<mudel>G</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1134</hind>
+	</auto>
+	<auto>
+		<id>591</id>
+		<mark>Chevrolet</mark>
+		<mudel>Tahoe</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">2347</hind>
+	</auto>
+	<auto>
+		<id>592</id>
+		<mark>Subaru</mark>
+		<mudel>SVX</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">5230</hind>
+	</auto>
+	<auto>
+		<id>593</id>
+		<mark>Audi</mark>
+		<mudel>Q7</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5432</hind>
+	</auto>
+	<auto>
+		<id>594</id>
+		<mark>BMW</mark>
+		<mudel>325</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">1060</hind>
+	</auto>
+	<auto>
+		<id>595</id>
+		<mark>Ford</mark>
+		<mudel>Explorer</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">7123</hind>
+	</auto>
+	<auto>
+		<id>596</id>
+		<mark>Oldsmobile</mark>
+		<mudel>98</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">367</hind>
+	</auto>
+	<auto>
+		<id>597</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SL-Class</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">4186</hind>
+	</auto>
+	<auto>
+		<id>598</id>
+		<mark>Plymouth</mark>
+		<mudel>Colt</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">1172</hind>
+	</auto>
+	<auto>
+		<id>599</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Aurora</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">2988</hind>
+	</auto>
+	<auto>
+		<id>600</id>
+		<mark>Geo</mark>
+		<mudel>Prizm</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">4508</hind>
+	</auto>
+	<auto>
+		<id>601</id>
+		<mark>Dodge</mark>
+		<mudel>D350</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">7362</hind>
+	</auto>
+	<auto>
+		<id>602</id>
+		<mark>Audi</mark>
+		<mudel>A8</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">552</hind>
+	</auto>
+	<auto>
+		<id>603</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Diamante</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">5046</hind>
+	</auto>
+	<auto>
+		<id>604</id>
+		<mark>Acura</mark>
+		<mudel>TL</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8548</hind>
+	</auto>
+	<auto>
+		<id>605</id>
+		<mark>Toyota</mark>
+		<mudel>Camry</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3031</hind>
+	</auto>
+	<auto>
+		<id>606</id>
+		<mark>Ford</mark>
+		<mudel>F-Series</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">7776</hind>
+	</auto>
+	<auto>
+		<id>607</id>
+		<mark>Toyota</mark>
+		<mudel>Venza</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">2699</hind>
+	</auto>
+	<auto>
+		<id>608</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">6396</hind>
+	</auto>
+	<auto>
+		<id>609</id>
+		<mark>Ford</mark>
+		<mudel>F-Series Super Duty</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">6358</hind>
+	</auto>
+	<auto>
+		<id>610</id>
+		<mark>Pontiac</mark>
+		<mudel>Bonneville</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">8648</hind>
+	</auto>
+	<auto>
+		<id>611</id>
+		<mark>Acura</mark>
+		<mudel>TL</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">585</hind>
+	</auto>
+	<auto>
+		<id>612</id>
+		<mark>Mazda</mark>
+		<mudel>929</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">3201</hind>
+	</auto>
+	<auto>
+		<id>613</id>
+		<mark>Subaru</mark>
+		<mudel>Legacy</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">5184</hind>
+	</auto>
+	<auto>
+		<id>614</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5990</hind>
+	</auto>
+	<auto>
+		<id>615</id>
+		<mark>Maybach</mark>
+		<mudel>62</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">7013</hind>
+	</auto>
+	<auto>
+		<id>616</id>
+		<mark>Chevrolet</mark>
+		<mudel>Corvette</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">3614</hind>
+	</auto>
+	<auto>
+		<id>617</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Lancer Evolution</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">6754</hind>
+	</auto>
+	<auto>
+		<id>618</id>
+		<mark>Cadillac</mark>
+		<mudel>CTS</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">1856</hind>
+	</auto>
+	<auto>
+		<id>619</id>
+		<mark>Ford</mark>
+		<mudel>Lightning</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">5216</hind>
+	</auto>
+	<auto>
+		<id>620</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">6429</hind>
+	</auto>
+	<auto>
+		<id>621</id>
+		<mark>Ford</mark>
+		<mudel>GT500</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3492</hind>
+	</auto>
+	<auto>
+		<id>622</id>
+		<mark>Dodge</mark>
+		<mudel>Charger</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">5943</hind>
+	</auto>
+	<auto>
+		<id>623</id>
+		<mark>Audi</mark>
+		<mudel>S4</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8335</hind>
+	</auto>
+	<auto>
+		<id>624</id>
+		<mark>Buick</mark>
+		<mudel>Park Avenue</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">4427</hind>
+	</auto>
+	<auto>
+		<id>625</id>
+		<mark>Toyota</mark>
+		<mudel>Tercel</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8214</hind>
+	</auto>
+	<auto>
+		<id>626</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">7977</hind>
+	</auto>
+	<auto>
+		<id>627</id>
+		<mark>Lincoln</mark>
+		<mudel>Mark LT</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">2717</hind>
+	</auto>
+	<auto>
+		<id>628</id>
+		<mark>Ford</mark>
+		<mudel>Windstar</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">9061</hind>
+	</auto>
+	<auto>
+		<id>629</id>
+		<mark>Hyundai</mark>
+		<mudel>Accent</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">1577</hind>
+	</auto>
+	<auto>
+		<id>630</id>
+		<mark>Subaru</mark>
+		<mudel>Leone</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">7029</hind>
+	</auto>
+	<auto>
+		<id>631</id>
+		<mark>Toyota</mark>
+		<mudel>RAV4</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">9691</hind>
+	</auto>
+	<auto>
+		<id>632</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CLS-Class</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3467</hind>
+	</auto>
+	<auto>
+		<id>633</id>
+		<mark>Mazda</mark>
+		<mudel>929</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1995</hind>
+	</auto>
+	<auto>
+		<id>634</id>
+		<mark>BMW</mark>
+		<mudel>X6</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">4477</hind>
+	</auto>
+	<auto>
+		<id>635</id>
+		<mark>Chevrolet</mark>
+		<mudel>Colorado</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">9217</hind>
+	</auto>
+	<auto>
+		<id>636</id>
+		<mark>Pontiac</mark>
+		<mudel>Sunfire</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">6348</hind>
+	</auto>
+	<auto>
+		<id>637</id>
+		<mark>Chevrolet</mark>
+		<mudel>Impala</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">5019</hind>
+	</auto>
+	<auto>
+		<id>638</id>
+		<mark>Audi</mark>
+		<mudel>TT</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4847</hind>
+	</auto>
+	<auto>
+		<id>639</id>
+		<mark>Chevrolet</mark>
+		<mudel>Camaro</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">5832</hind>
+	</auto>
+	<auto>
+		<id>640</id>
+		<mark>GMC</mark>
+		<mudel>Safari</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8379</hind>
+	</auto>
+	<auto>
+		<id>641</id>
+		<mark>Cadillac</mark>
+		<mudel>DeVille</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">8201</hind>
+	</auto>
+	<auto>
+		<id>642</id>
+		<mark>BMW</mark>
+		<mudel>X5 M</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">2073</hind>
+	</auto>
+	<auto>
+		<id>643</id>
+		<mark>Chevrolet</mark>
+		<mudel>Impala</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7615</hind>
+	</auto>
+	<auto>
+		<id>644</id>
+		<mark>Ford</mark>
+		<mudel>E-Series</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">4719</hind>
+	</auto>
+	<auto>
+		<id>645</id>
+		<mark>Dodge</mark>
+		<mudel>Avenger</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">2662</hind>
+	</auto>
+	<auto>
+		<id>646</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SL-Class</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">9268</hind>
+	</auto>
+	<auto>
+		<id>647</id>
+		<mark>Subaru</mark>
+		<mudel>Justy</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1553</hind>
+	</auto>
+	<auto>
+		<id>648</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>S-Class</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">6387</hind>
+	</auto>
+	<auto>
+		<id>649</id>
+		<mark>Audi</mark>
+		<mudel>A6</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5013</hind>
+	</auto>
+	<auto>
+		<id>650</id>
+		<mark>Nissan</mark>
+		<mudel>350Z</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6511</hind>
+	</auto>
+	<auto>
+		<id>651</id>
+		<mark>Ford</mark>
+		<mudel>F350</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">6134</hind>
+	</auto>
+	<auto>
+		<id>652</id>
+		<mark>Ford</mark>
+		<mudel>ZX2</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3364</hind>
+	</auto>
+	<auto>
+		<id>653</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Eclipse</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7911</hind>
+	</auto>
+	<auto>
+		<id>654</id>
+		<mark>Toyota</mark>
+		<mudel>Land Cruiser</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">5014</hind>
+	</auto>
+	<auto>
+		<id>655</id>
+		<mark>Lexus</mark>
+		<mudel>GS</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">9811</hind>
+	</auto>
+	<auto>
+		<id>656</id>
+		<mark>Lotus</mark>
+		<mudel>Esprit</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">7968</hind>
+	</auto>
+	<auto>
+		<id>657</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental Mark VII</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">5212</hind>
+	</auto>
+	<auto>
+		<id>658</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado 2500</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">8656</hind>
+	</auto>
+	<auto>
+		<id>659</id>
+		<mark>Volvo</mark>
+		<mudel>C70</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">9926</hind>
+	</auto>
+	<auto>
+		<id>660</id>
+		<mark>Audi</mark>
+		<mudel>R8</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5019</hind>
+	</auto>
+	<auto>
+		<id>661</id>
+		<mark>Scion</mark>
+		<mudel>xB</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">9641</hind>
+	</auto>
+	<auto>
+		<id>662</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">9527</hind>
+	</auto>
+	<auto>
+		<id>663</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Alero</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2016</hind>
+	</auto>
+	<auto>
+		<id>664</id>
+		<mark>Chevrolet</mark>
+		<mudel>Suburban 2500</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">7306</hind>
+	</auto>
+	<auto>
+		<id>665</id>
+		<mark>Chevrolet</mark>
+		<mudel>1500</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">2590</hind>
+	</auto>
+	<auto>
+		<id>666</id>
+		<mark>Pontiac</mark>
+		<mudel>Parisienne</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">9723</hind>
+	</auto>
+	<auto>
+		<id>667</id>
+		<mark>Honda</mark>
+		<mudel>Pilot</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7851</hind>
+	</auto>
+	<auto>
+		<id>668</id>
+		<mark>Maserati</mark>
+		<mudel>Quattroporte</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6057</hind>
+	</auto>
+	<auto>
+		<id>669</id>
+		<mark>Hyundai</mark>
+		<mudel>Elantra</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1551</hind>
+	</auto>
+	<auto>
+		<id>670</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix Turbo</mudel>
+		<aasta>1990</aasta>
+		<hind valuuta="euro">8704</hind>
+	</auto>
+	<auto>
+		<id>671</id>
+		<mark>GMC</mark>
+		<mudel>Yukon XL 1500</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6001</hind>
+	</auto>
+	<auto>
+		<id>672</id>
+		<mark>Buick</mark>
+		<mudel>Terraza</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">464</hind>
+	</auto>
+	<auto>
+		<id>673</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1969</aasta>
+		<hind valuuta="euro">8745</hind>
+	</auto>
+	<auto>
+		<id>674</id>
+		<mark>GMC</mark>
+		<mudel>Yukon</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">9613</hind>
+	</auto>
+	<auto>
+		<id>675</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SLK-Class</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3969</hind>
+	</auto>
+	<auto>
+		<id>676</id>
+		<mark>Nissan</mark>
+		<mudel>GT-R</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">1707</hind>
+	</auto>
+	<auto>
+		<id>677</id>
+		<mark>Toyota</mark>
+		<mudel>Solara</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">2161</hind>
+	</auto>
+	<auto>
+		<id>678</id>
+		<mark>Mazda</mark>
+		<mudel>626</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">7278</hind>
+	</auto>
+	<auto>
+		<id>679</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero Sport</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">6045</hind>
+	</auto>
+	<auto>
+		<id>680</id>
+		<mark>BMW</mark>
+		<mudel>M3</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">5795</hind>
+	</auto>
+	<auto>
+		<id>681</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Challenger</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">1755</hind>
+	</auto>
+	<auto>
+		<id>682</id>
+		<mark>Toyota</mark>
+		<mudel>Camry</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8432</hind>
+	</auto>
+	<auto>
+		<id>683</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">9710</hind>
+	</auto>
+	<auto>
+		<id>684</id>
+		<mark>Lincoln</mark>
+		<mudel>Town Car</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">5266</hind>
+	</auto>
+	<auto>
+		<id>685</id>
+		<mark>Toyota</mark>
+		<mudel>Tacoma</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2667</hind>
+	</auto>
+	<auto>
+		<id>686</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Galant</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">1477</hind>
+	</auto>
+	<auto>
+		<id>687</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CLS-Class</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7208</hind>
+	</auto>
+	<auto>
+		<id>688</id>
+		<mark>Volkswagen</mark>
+		<mudel>Eurovan</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6953</hind>
+	</auto>
+	<auto>
+		<id>689</id>
+		<mark>BMW</mark>
+		<mudel>3 Series</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9925</hind>
+	</auto>
+	<auto>
+		<id>690</id>
+		<mark>Dodge</mark>
+		<mudel>Magnum</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">8744</hind>
+	</auto>
+	<auto>
+		<id>691</id>
+		<mark>Nissan</mark>
+		<mudel>300ZX</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3901</hind>
+	</auto>
+	<auto>
+		<id>692</id>
+		<mark>Buick</mark>
+		<mudel>Regal</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5661</hind>
+	</auto>
+	<auto>
+		<id>693</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>R-Class</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">2747</hind>
+	</auto>
+	<auto>
+		<id>694</id>
+		<mark>Mazda</mark>
+		<mudel>Mazda3</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7608</hind>
+	</auto>
+	<auto>
+		<id>695</id>
+		<mark>Volkswagen</mark>
+		<mudel>GTI</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">3170</hind>
+	</auto>
+	<auto>
+		<id>696</id>
+		<mark>Chevrolet</mark>
+		<mudel>Uplander</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">730</hind>
+	</auto>
+	<auto>
+		<id>697</id>
+		<mark>Toyota</mark>
+		<mudel>Echo</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">1373</hind>
+	</auto>
+	<auto>
+		<id>698</id>
+		<mark>Toyota</mark>
+		<mudel>Celica</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8266</hind>
+	</auto>
+	<auto>
+		<id>699</id>
+		<mark>Ford</mark>
+		<mudel>Taurus X</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">9782</hind>
+	</auto>
+	<auto>
+		<id>700</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>600SL</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">3949</hind>
+	</auto>
+	<auto>
+		<id>701</id>
+		<mark>Ford</mark>
+		<mudel>Aerostar</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">7157</hind>
+	</auto>
+	<auto>
+		<id>702</id>
+		<mark>Infiniti</mark>
+		<mudel>I</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">428</hind>
+	</auto>
+	<auto>
+		<id>703</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado 3500HD</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">8308</hind>
+	</auto>
+	<auto>
+		<id>704</id>
+		<mark>Pontiac</mark>
+		<mudel>Torrent</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">4272</hind>
+	</auto>
+	<auto>
+		<id>705</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SLR McLaren</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">1610</hind>
+	</auto>
+	<auto>
+		<id>706</id>
+		<mark>Porsche</mark>
+		<mudel>Cayenne</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">6032</hind>
+	</auto>
+	<auto>
+		<id>707</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Diamante</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">2306</hind>
+	</auto>
+	<auto>
+		<id>708</id>
+		<mark>BMW</mark>
+		<mudel>5 Series</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">716</hind>
+	</auto>
+	<auto>
+		<id>709</id>
+		<mark>Plymouth</mark>
+		<mudel>Neon</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">4417</hind>
+	</auto>
+	<auto>
+		<id>710</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1969</aasta>
+		<hind valuuta="euro">8281</hind>
+	</auto>
+	<auto>
+		<id>711</id>
+		<mark>GMC</mark>
+		<mudel>Suburban 2500</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">5641</hind>
+	</auto>
+	<auto>
+		<id>712</id>
+		<mark>Honda</mark>
+		<mudel>Fit</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">847</hind>
+	</auto>
+	<auto>
+		<id>713</id>
+		<mark>Toyota</mark>
+		<mudel>T100</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1756</hind>
+	</auto>
+	<auto>
+		<id>714</id>
+		<mark>Infiniti</mark>
+		<mudel>I</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">9070</hind>
+	</auto>
+	<auto>
+		<id>715</id>
+		<mark>Nissan</mark>
+		<mudel>Altima</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">5237</hind>
+	</auto>
+	<auto>
+		<id>716</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">3743</hind>
+	</auto>
+	<auto>
+		<id>717</id>
+		<mark>Nissan</mark>
+		<mudel>Quest</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">7251</hind>
+	</auto>
+	<auto>
+		<id>718</id>
+		<mark>Dodge</mark>
+		<mudel>Nitro</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5388</hind>
+	</auto>
+	<auto>
+		<id>719</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CLK-Class</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">1956</hind>
+	</auto>
+	<auto>
+		<id>720</id>
+		<mark>Saab</mark>
+		<mudel>9-3</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2969</hind>
+	</auto>
+	<auto>
+		<id>721</id>
+		<mark>Shelby</mark>
+		<mudel>GT500</mudel>
+		<aasta>1968</aasta>
+		<hind valuuta="euro">6288</hind>
+	</auto>
+	<auto>
+		<id>722</id>
+		<mark>Honda</mark>
+		<mudel>CR-V</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6573</hind>
+	</auto>
+	<auto>
+		<id>723</id>
+		<mark>GMC</mark>
+		<mudel>Savana 3500</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">3972</hind>
+	</auto>
+	<auto>
+		<id>724</id>
+		<mark>Nissan</mark>
+		<mudel>Maxima</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">3879</hind>
+	</auto>
+	<auto>
+		<id>725</id>
+		<mark>Jaguar</mark>
+		<mudel>XK</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1017</hind>
+	</auto>
+	<auto>
+		<id>726</id>
+		<mark>Saturn</mark>
+		<mudel>L-Series</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6056</hind>
+	</auto>
+	<auto>
+		<id>727</id>
+		<mark>Subaru</mark>
+		<mudel>XT</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">9838</hind>
+	</auto>
+	<auto>
+		<id>728</id>
+		<mark>Saturn</mark>
+		<mudel>VUE</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">7360</hind>
+	</auto>
+	<auto>
+		<id>729</id>
+		<mark>Pontiac</mark>
+		<mudel>Sunbird</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">2695</hind>
+	</auto>
+	<auto>
+		<id>730</id>
+		<mark>Ford</mark>
+		<mudel>F150</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">7772</hind>
+	</auto>
+	<auto>
+		<id>731</id>
+		<mark>Ford</mark>
+		<mudel>Flex</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5480</hind>
+	</auto>
+	<auto>
+		<id>732</id>
+		<mark>Buick</mark>
+		<mudel>Riviera</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">6220</hind>
+	</auto>
+	<auto>
+		<id>733</id>
+		<mark>Nissan</mark>
+		<mudel>Sentra</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">6872</hind>
+	</auto>
+	<auto>
+		<id>734</id>
+		<mark>GMC</mark>
+		<mudel>Jimmy</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">880</hind>
+	</auto>
+	<auto>
+		<id>735</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Am</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8089</hind>
+	</auto>
+	<auto>
+		<id>736</id>
+		<mark>Dodge</mark>
+		<mudel>Avenger</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">8545</hind>
+	</auto>
+	<auto>
+		<id>737</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Montero Sport</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">7768</hind>
+	</auto>
+	<auto>
+		<id>738</id>
+		<mark>GMC</mark>
+		<mudel>Yukon</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">1579</hind>
+	</auto>
+	<auto>
+		<id>739</id>
+		<mark>Mitsubishi</mark>
+		<mudel>L300</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1748</hind>
+	</auto>
+	<auto>
+		<id>740</id>
+		<mark>Ford</mark>
+		<mudel>Aspire</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1265</hind>
+	</auto>
+	<auto>
+		<id>741</id>
+		<mark>Toyota</mark>
+		<mudel>Previa</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">5688</hind>
+	</auto>
+	<auto>
+		<id>742</id>
+		<mark>Ford</mark>
+		<mudel>Taurus</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">2791</hind>
+	</auto>
+	<auto>
+		<id>743</id>
+		<mark>Plymouth</mark>
+		<mudel>Voyager</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">6505</hind>
+	</auto>
+	<auto>
+		<id>744</id>
+		<mark>Dodge</mark>
+		<mudel>D350</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">9546</hind>
+	</auto>
+	<auto>
+		<id>745</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Challenger</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5553</hind>
+	</auto>
+	<auto>
+		<id>746</id>
+		<mark>Mazda</mark>
+		<mudel>Mazda6</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6055</hind>
+	</auto>
+	<auto>
+		<id>747</id>
+		<mark>Lexus</mark>
+		<mudel>GX</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">943</hind>
+	</auto>
+	<auto>
+		<id>748</id>
+		<mark>Ford</mark>
+		<mudel>Edge</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">3612</hind>
+	</auto>
+	<auto>
+		<id>749</id>
+		<mark>Mazda</mark>
+		<mudel>Protege</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">8693</hind>
+	</auto>
+	<auto>
+		<id>750</id>
+		<mark>Lexus</mark>
+		<mudel>LX</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">7544</hind>
+	</auto>
+	<auto>
+		<id>751</id>
+		<mark>Mercury</mark>
+		<mudel>Montego</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">761</hind>
+	</auto>
+	<auto>
+		<id>752</id>
+		<mark>GMC</mark>
+		<mudel>Savana 1500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">357</hind>
+	</auto>
+	<auto>
+		<id>753</id>
+		<mark>Ford</mark>
+		<mudel>F350</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">9808</hind>
+	</auto>
+	<auto>
+		<id>754</id>
+		<mark>Ford</mark>
+		<mudel>Aerostar</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">1123</hind>
+	</auto>
+	<auto>
+		<id>755</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Outlander</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">531</hind>
+	</auto>
+	<auto>
+		<id>756</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>GL-Class</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">7028</hind>
+	</auto>
+	<auto>
+		<id>757</id>
+		<mark>Chevrolet</mark>
+		<mudel>Avalanche 1500</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">5431</hind>
+	</auto>
+	<auto>
+		<id>758</id>
+		<mark>Toyota</mark>
+		<mudel>Previa</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">6670</hind>
+	</auto>
+	<auto>
+		<id>759</id>
+		<mark>Mazda</mark>
+		<mudel>RX-7</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">8934</hind>
+	</auto>
+	<auto>
+		<id>760</id>
+		<mark>Audi</mark>
+		<mudel>4000</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">9328</hind>
+	</auto>
+	<auto>
+		<id>761</id>
+		<mark>Ford</mark>
+		<mudel>Ranger</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3622</hind>
+	</auto>
+	<auto>
+		<id>762</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>C-Class</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">481</hind>
+	</auto>
+	<auto>
+		<id>763</id>
+		<mark>Toyota</mark>
+		<mudel>Matrix</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">2711</hind>
+	</auto>
+	<auto>
+		<id>764</id>
+		<mark>Ford</mark>
+		<mudel>Explorer</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">8872</hind>
+	</auto>
+	<auto>
+		<id>765</id>
+		<mark>Ford</mark>
+		<mudel>Bronco II</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">9699</hind>
+	</auto>
+	<auto>
+		<id>766</id>
+		<mark>GMC</mark>
+		<mudel>Envoy XL</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">690</hind>
+	</auto>
+	<auto>
+		<id>767</id>
+		<mark>Lincoln</mark>
+		<mudel>LS</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">8687</hind>
+	</auto>
+	<auto>
+		<id>768</id>
+		<mark>Suzuki</mark>
+		<mudel>Kizashi</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">6464</hind>
+	</auto>
+	<auto>
+		<id>769</id>
+		<mark>Chevrolet</mark>
+		<mudel>Traverse</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">8799</hind>
+	</auto>
+	<auto>
+		<id>770</id>
+		<mark>Land Rover</mark>
+		<mudel>Discovery</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">7607</hind>
+	</auto>
+	<auto>
+		<id>771</id>
+		<mark>Kia</mark>
+		<mudel>Rio</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2270</hind>
+	</auto>
+	<auto>
+		<id>772</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">8288</hind>
+	</auto>
+	<auto>
+		<id>773</id>
+		<mark>Ford</mark>
+		<mudel>Escort</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">8260</hind>
+	</auto>
+	<auto>
+		<id>774</id>
+		<mark>Toyota</mark>
+		<mudel>RAV4</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">6065</hind>
+	</auto>
+	<auto>
+		<id>775</id>
+		<mark>BMW</mark>
+		<mudel>M</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3516</hind>
+	</auto>
+	<auto>
+		<id>776</id>
+		<mark>Ford</mark>
+		<mudel>E250</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1365</hind>
+	</auto>
+	<auto>
+		<id>777</id>
+		<mark>Chevrolet</mark>
+		<mudel>Malibu</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5281</hind>
+	</auto>
+	<auto>
+		<id>778</id>
+		<mark>Honda</mark>
+		<mudel>Element</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3416</hind>
+	</auto>
+	<auto>
+		<id>779</id>
+		<mark>Chevrolet</mark>
+		<mudel>Astro</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">1169</hind>
+	</auto>
+	<auto>
+		<id>780</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SL-Class</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">4379</hind>
+	</auto>
+	<auto>
+		<id>781</id>
+		<mark>Ford</mark>
+		<mudel>F250</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4957</hind>
+	</auto>
+	<auto>
+		<id>782</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">3112</hind>
+	</auto>
+	<auto>
+		<id>783</id>
+		<mark>Isuzu</mark>
+		<mudel>Ascender</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">843</hind>
+	</auto>
+	<auto>
+		<id>784</id>
+		<mark>Mitsubishi</mark>
+		<mudel>GTO</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">3212</hind>
+	</auto>
+	<auto>
+		<id>785</id>
+		<mark>Acura</mark>
+		<mudel>Integra</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">3951</hind>
+	</auto>
+	<auto>
+		<id>786</id>
+		<mark>Ford</mark>
+		<mudel>Taurus</mudel>
+		<aasta>1986</aasta>
+		<hind valuuta="euro">5837</hind>
+	</auto>
+	<auto>
+		<id>787</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6715</hind>
+	</auto>
+	<auto>
+		<id>788</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">8212</hind>
+	</auto>
+	<auto>
+		<id>789</id>
+		<mark>Buick</mark>
+		<mudel>Park Avenue</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">6234</hind>
+	</auto>
+	<auto>
+		<id>790</id>
+		<mark>Volkswagen</mark>
+		<mudel>Type 2</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">874</hind>
+	</auto>
+	<auto>
+		<id>791</id>
+		<mark>Mazda</mark>
+		<mudel>RX-7</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">4987</hind>
+	</auto>
+	<auto>
+		<id>792</id>
+		<mark>Pontiac</mark>
+		<mudel>Montana</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6884</hind>
+	</auto>
+	<auto>
+		<id>793</id>
+		<mark>Nissan</mark>
+		<mudel>Frontier</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1338</hind>
+	</auto>
+	<auto>
+		<id>794</id>
+		<mark>Lexus</mark>
+		<mudel>IS F</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1804</hind>
+	</auto>
+	<auto>
+		<id>795</id>
+		<mark>Toyota</mark>
+		<mudel>Sienna</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2646</hind>
+	</auto>
+	<auto>
+		<id>796</id>
+		<mark>Mazda</mark>
+		<mudel>RX-8</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1857</hind>
+	</auto>
+	<auto>
+		<id>797</id>
+		<mark>Chevrolet</mark>
+		<mudel>Monte Carlo</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">872</hind>
+	</auto>
+	<auto>
+		<id>798</id>
+		<mark>Daewoo</mark>
+		<mudel>Leganza</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8356</hind>
+	</auto>
+	<auto>
+		<id>799</id>
+		<mark>Chevrolet</mark>
+		<mudel>HHR</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">861</hind>
+	</auto>
+	<auto>
+		<id>800</id>
+		<mark>Dodge</mark>
+		<mudel>Dakota</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">7350</hind>
+	</auto>
+	<auto>
+		<id>801</id>
+		<mark>Acura</mark>
+		<mudel>RDX</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">7869</hind>
+	</auto>
+	<auto>
+		<id>802</id>
+		<mark>Bentley</mark>
+		<mudel>Continental GTC</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4819</hind>
+	</auto>
+	<auto>
+		<id>803</id>
+		<mark>Kia</mark>
+		<mudel>Amanti</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">9146</hind>
+	</auto>
+	<auto>
+		<id>804</id>
+		<mark>Acura</mark>
+		<mudel>RL</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2224</hind>
+	</auto>
+	<auto>
+		<id>805</id>
+		<mark>Mazda</mark>
+		<mudel>MX-6</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">2698</hind>
+	</auto>
+	<auto>
+		<id>806</id>
+		<mark>Nissan</mark>
+		<mudel>Xterra</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">2047</hind>
+	</auto>
+	<auto>
+		<id>807</id>
+		<mark>Subaru</mark>
+		<mudel>Impreza</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">8745</hind>
+	</auto>
+	<auto>
+		<id>808</id>
+		<mark>Volkswagen</mark>
+		<mudel>Passat</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">1759</hind>
+	</auto>
+	<auto>
+		<id>809</id>
+		<mark>Mercury</mark>
+		<mudel>Sable</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8652</hind>
+	</auto>
+	<auto>
+		<id>810</id>
+		<mark>Chevrolet</mark>
+		<mudel>2500</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">361</hind>
+	</auto>
+	<auto>
+		<id>811</id>
+		<mark>Toyota</mark>
+		<mudel>Corolla</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">3842</hind>
+	</auto>
+	<auto>
+		<id>812</id>
+		<mark>Ford</mark>
+		<mudel>E-Series</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">4809</hind>
+	</auto>
+	<auto>
+		<id>813</id>
+		<mark>Volkswagen</mark>
+		<mudel>Fox</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">9111</hind>
+	</auto>
+	<auto>
+		<id>814</id>
+		<mark>Pontiac</mark>
+		<mudel>Grand Prix</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">4745</hind>
+	</auto>
+	<auto>
+		<id>815</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 1500</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">2127</hind>
+	</auto>
+	<auto>
+		<id>816</id>
+		<mark>Porsche</mark>
+		<mudel>Boxster</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">8630</hind>
+	</auto>
+	<auto>
+		<id>817</id>
+		<mark>Ford</mark>
+		<mudel>F-Series</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">4819</hind>
+	</auto>
+	<auto>
+		<id>818</id>
+		<mark>Mazda</mark>
+		<mudel>Mazda5</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">9448</hind>
+	</auto>
+	<auto>
+		<id>819</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>M-Class</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">1202</hind>
+	</auto>
+	<auto>
+		<id>820</id>
+		<mark>Honda</mark>
+		<mudel>Odyssey</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">743</hind>
+	</auto>
+	<auto>
+		<id>821</id>
+		<mark>Honda</mark>
+		<mudel>Insight</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3099</hind>
+	</auto>
+	<auto>
+		<id>822</id>
+		<mark>BMW</mark>
+		<mudel>Z4</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">5437</hind>
+	</auto>
+	<auto>
+		<id>823</id>
+		<mark>Land Rover</mark>
+		<mudel>LR3</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">6911</hind>
+	</auto>
+	<auto>
+		<id>824</id>
+		<mark>Mazda</mark>
+		<mudel>CX-9</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">8853</hind>
+	</auto>
+	<auto>
+		<id>825</id>
+		<mark>Buick</mark>
+		<mudel>Reatta</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">5350</hind>
+	</auto>
+	<auto>
+		<id>826</id>
+		<mark>Cadillac</mark>
+		<mudel>Allante</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">517</hind>
+	</auto>
+	<auto>
+		<id>827</id>
+		<mark>Ford</mark>
+		<mudel>Edge</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">826</hind>
+	</auto>
+	<auto>
+		<id>828</id>
+		<mark>Ford</mark>
+		<mudel>Escort</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">9973</hind>
+	</auto>
+	<auto>
+		<id>829</id>
+		<mark>Ford</mark>
+		<mudel>Taurus</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">656</hind>
+	</auto>
+	<auto>
+		<id>830</id>
+		<mark>Audi</mark>
+		<mudel>A8</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">8312</hind>
+	</auto>
+	<auto>
+		<id>831</id>
+		<mark>Toyota</mark>
+		<mudel>Tacoma</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">9511</hind>
+	</auto>
+	<auto>
+		<id>832</id>
+		<mark>Honda</mark>
+		<mudel>Civic</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">8146</hind>
+	</auto>
+	<auto>
+		<id>833</id>
+		<mark>Porsche</mark>
+		<mudel>911</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">7902</hind>
+	</auto>
+	<auto>
+		<id>834</id>
+		<mark>Ford</mark>
+		<mudel>Aerostar</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3050</hind>
+	</auto>
+	<auto>
+		<id>835</id>
+		<mark>Lincoln</mark>
+		<mudel>Continental</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">8884</hind>
+	</auto>
+	<auto>
+		<id>836</id>
+		<mark>Saturn</mark>
+		<mudel>L-Series</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6471</hind>
+	</auto>
+	<auto>
+		<id>837</id>
+		<mark>GMC</mark>
+		<mudel>Envoy XL</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">5106</hind>
+	</auto>
+	<auto>
+		<id>838</id>
+		<mark>Mercury</mark>
+		<mudel>Topaz</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">2134</hind>
+	</auto>
+	<auto>
+		<id>839</id>
+		<mark>Mazda</mark>
+		<mudel>RX-7</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">9001</hind>
+	</auto>
+	<auto>
+		<id>840</id>
+		<mark>Mercury</mark>
+		<mudel>Cougar</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">2487</hind>
+	</auto>
+	<auto>
+		<id>841</id>
+		<mark>Land Rover</mark>
+		<mudel>Range Rover</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">8307</hind>
+	</auto>
+	<auto>
+		<id>842</id>
+		<mark>Dodge</mark>
+		<mudel>Durango</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">9165</hind>
+	</auto>
+	<auto>
+		<id>843</id>
+		<mark>Audi</mark>
+		<mudel>A8</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">1057</hind>
+	</auto>
+	<auto>
+		<id>844</id>
+		<mark>Mercury</mark>
+		<mudel>Sable</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5589</hind>
+	</auto>
+	<auto>
+		<id>845</id>
+		<mark>Ford</mark>
+		<mudel>Taurus</mudel>
+		<aasta>1987</aasta>
+		<hind valuuta="euro">3038</hind>
+	</auto>
+	<auto>
+		<id>846</id>
+		<mark>Hyundai</mark>
+		<mudel>Sonata</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">3487</hind>
+	</auto>
+	<auto>
+		<id>847</id>
+		<mark>GMC</mark>
+		<mudel>Yukon XL 2500</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6267</hind>
+	</auto>
+	<auto>
+		<id>848</id>
+		<mark>GMC</mark>
+		<mudel>2500</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">8472</hind>
+	</auto>
+	<auto>
+		<id>849</id>
+		<mark>Volkswagen</mark>
+		<mudel>Passat</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">9295</hind>
+	</auto>
+	<auto>
+		<id>850</id>
+		<mark>Mazda</mark>
+		<mudel>929</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1844</hind>
+	</auto>
+	<auto>
+		<id>851</id>
+		<mark>Pontiac</mark>
+		<mudel>Trans Sport</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4562</hind>
+	</auto>
+	<auto>
+		<id>852</id>
+		<mark>Ford</mark>
+		<mudel>Ranger</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">1665</hind>
+	</auto>
+	<auto>
+		<id>853</id>
+		<mark>Audi</mark>
+		<mudel>100</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">6899</hind>
+	</auto>
+	<auto>
+		<id>854</id>
+		<mark>Mazda</mark>
+		<mudel>Mazda3</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">4090</hind>
+	</auto>
+	<auto>
+		<id>855</id>
+		<mark>Citroën</mark>
+		<mudel>SM</mudel>
+		<aasta>1972</aasta>
+		<hind valuuta="euro">1440</hind>
+	</auto>
+	<auto>
+		<id>856</id>
+		<mark>Honda</mark>
+		<mudel>CR-Z</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">1386</hind>
+	</auto>
+	<auto>
+		<id>857</id>
+		<mark>Pontiac</mark>
+		<mudel>Tempest</mudel>
+		<aasta>1965</aasta>
+		<hind valuuta="euro">2635</hind>
+	</auto>
+	<auto>
+		<id>858</id>
+		<mark>Kia</mark>
+		<mudel>Rondo</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">6775</hind>
+	</auto>
+	<auto>
+		<id>859</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf</mudel>
+		<aasta>1984</aasta>
+		<hind valuuta="euro">8904</hind>
+	</auto>
+	<auto>
+		<id>860</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">7959</hind>
+	</auto>
+	<auto>
+		<id>861</id>
+		<mark>Honda</mark>
+		<mudel>Accord</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3662</hind>
+	</auto>
+	<auto>
+		<id>862</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">6258</hind>
+	</auto>
+	<auto>
+		<id>863</id>
+		<mark>Nissan</mark>
+		<mudel>Maxima</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2943</hind>
+	</auto>
+	<auto>
+		<id>864</id>
+		<mark>Pontiac</mark>
+		<mudel>G6</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">9328</hind>
+	</auto>
+	<auto>
+		<id>865</id>
+		<mark>Jeep</mark>
+		<mudel>Liberty</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">9881</hind>
+	</auto>
+	<auto>
+		<id>866</id>
+		<mark>Lincoln</mark>
+		<mudel>Navigator</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">6381</hind>
+	</auto>
+	<auto>
+		<id>867</id>
+		<mark>Acura</mark>
+		<mudel>Integra</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">8687</hind>
+	</auto>
+	<auto>
+		<id>868</id>
+		<mark>Infiniti</mark>
+		<mudel>QX56</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">3226</hind>
+	</auto>
+	<auto>
+		<id>869</id>
+		<mark>Toyota</mark>
+		<mudel>4Runner</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">3098</hind>
+	</auto>
+	<auto>
+		<id>870</id>
+		<mark>Volvo</mark>
+		<mudel>850</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8638</hind>
+	</auto>
+	<auto>
+		<id>871</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>300SE</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">1392</hind>
+	</auto>
+	<auto>
+		<id>872</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Intrigue</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6563</hind>
+	</auto>
+	<auto>
+		<id>873</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">858</hind>
+	</auto>
+	<auto>
+		<id>874</id>
+		<mark>Suzuki</mark>
+		<mudel>SJ</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">6751</hind>
+	</auto>
+	<auto>
+		<id>875</id>
+		<mark>Audi</mark>
+		<mudel>RS 4</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">1441</hind>
+	</auto>
+	<auto>
+		<id>876</id>
+		<mark>Toyota</mark>
+		<mudel>MR2</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">3262</hind>
+	</auto>
+	<auto>
+		<id>877</id>
+		<mark>Ford</mark>
+		<mudel>Freestyle</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">7822</hind>
+	</auto>
+	<auto>
+		<id>878</id>
+		<mark>GMC</mark>
+		<mudel>Savana 2500</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">4405</hind>
+	</auto>
+	<auto>
+		<id>879</id>
+		<mark>Volkswagen</mark>
+		<mudel>Touareg 2</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">7542</hind>
+	</auto>
+	<auto>
+		<id>880</id>
+		<mark>Saab</mark>
+		<mudel>9-5</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">9091</hind>
+	</auto>
+	<auto>
+		<id>881</id>
+		<mark>Chevrolet</mark>
+		<mudel>Express 1500</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">2528</hind>
+	</auto>
+	<auto>
+		<id>882</id>
+		<mark>Ford</mark>
+		<mudel>Festiva</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">3509</hind>
+	</auto>
+	<auto>
+		<id>883</id>
+		<mark>Nissan</mark>
+		<mudel>Murano</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">536</hind>
+	</auto>
+	<auto>
+		<id>884</id>
+		<mark>Buick</mark>
+		<mudel>Century</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">4668</hind>
+	</auto>
+	<auto>
+		<id>885</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1970</aasta>
+		<hind valuuta="euro">5743</hind>
+	</auto>
+	<auto>
+		<id>886</id>
+		<mark>Ford</mark>
+		<mudel>E350</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">5608</hind>
+	</auto>
+	<auto>
+		<id>887</id>
+		<mark>Chrysler</mark>
+		<mudel>300M</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">5372</hind>
+	</auto>
+	<auto>
+		<id>888</id>
+		<mark>Audi</mark>
+		<mudel>5000S</mudel>
+		<aasta>1988</aasta>
+		<hind valuuta="euro">9183</hind>
+	</auto>
+	<auto>
+		<id>889</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">3081</hind>
+	</auto>
+	<auto>
+		<id>890</id>
+		<mark>Buick</mark>
+		<mudel>LeSabre</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">4681</hind>
+	</auto>
+	<auto>
+		<id>891</id>
+		<mark>GMC</mark>
+		<mudel>Savana 1500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">7527</hind>
+	</auto>
+	<auto>
+		<id>892</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Galant</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">1920</hind>
+	</auto>
+	<auto>
+		<id>893</id>
+		<mark>Studebaker</mark>
+		<mudel>Avanti</mudel>
+		<aasta>1964</aasta>
+		<hind valuuta="euro">4965</hind>
+	</auto>
+	<auto>
+		<id>894</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6720</hind>
+	</auto>
+	<auto>
+		<id>895</id>
+		<mark>Toyota</mark>
+		<mudel>Camry</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6023</hind>
+	</auto>
+	<auto>
+		<id>896</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Achieva</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">8597</hind>
+	</auto>
+	<auto>
+		<id>897</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Starion</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1858</hind>
+	</auto>
+	<auto>
+		<id>898</id>
+		<mark>Nissan</mark>
+		<mudel>Frontier</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">5896</hind>
+	</auto>
+	<auto>
+		<id>899</id>
+		<mark>Hummer</mark>
+		<mudel>H2</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">6215</hind>
+	</auto>
+	<auto>
+		<id>900</id>
+		<mark>Pontiac</mark>
+		<mudel>Sunfire</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">1547</hind>
+	</auto>
+	<auto>
+		<id>901</id>
+		<mark>Audi</mark>
+		<mudel>A6</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5744</hind>
+	</auto>
+	<auto>
+		<id>902</id>
+		<mark>Audi</mark>
+		<mudel>4000s</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">3113</hind>
+	</auto>
+	<auto>
+		<id>903</id>
+		<mark>Lexus</mark>
+		<mudel>RX</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">3420</hind>
+	</auto>
+	<auto>
+		<id>904</id>
+		<mark>Nissan</mark>
+		<mudel>240SX</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">4092</hind>
+	</auto>
+	<auto>
+		<id>905</id>
+		<mark>Chevrolet</mark>
+		<mudel>APV</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">7818</hind>
+	</auto>
+	<auto>
+		<id>906</id>
+		<mark>Ford</mark>
+		<mudel>Explorer</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">4478</hind>
+	</auto>
+	<auto>
+		<id>907</id>
+		<mark>Ford</mark>
+		<mudel>F-250 Super Duty</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">9191</hind>
+	</auto>
+	<auto>
+		<id>908</id>
+		<mark>Toyota</mark>
+		<mudel>Corolla</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">8854</hind>
+	</auto>
+	<auto>
+		<id>909</id>
+		<mark>Kia</mark>
+		<mudel>Sportage</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">3090</hind>
+	</auto>
+	<auto>
+		<id>910</id>
+		<mark>Subaru</mark>
+		<mudel>Legacy</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">8932</hind>
+	</auto>
+	<auto>
+		<id>911</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Pajero</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">8223</hind>
+	</auto>
+	<auto>
+		<id>912</id>
+		<mark>Toyota</mark>
+		<mudel>Supra</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">5326</hind>
+	</auto>
+	<auto>
+		<id>913</id>
+		<mark>Maybach</mark>
+		<mudel>57</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1564</hind>
+	</auto>
+	<auto>
+		<id>914</id>
+		<mark>Dodge</mark>
+		<mudel>Caravan</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">7226</hind>
+	</auto>
+	<auto>
+		<id>915</id>
+		<mark>Volvo</mark>
+		<mudel>XC70</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">8289</hind>
+	</auto>
+	<auto>
+		<id>916</id>
+		<mark>Toyota</mark>
+		<mudel>Sienna</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">6239</hind>
+	</auto>
+	<auto>
+		<id>917</id>
+		<mark>Dodge</mark>
+		<mudel>Ram</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">3881</hind>
+	</auto>
+	<auto>
+		<id>918</id>
+		<mark>Land Rover</mark>
+		<mudel>Discovery</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">2939</hind>
+	</auto>
+	<auto>
+		<id>919</id>
+		<mark>Buick</mark>
+		<mudel>Lucerne</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">3677</hind>
+	</auto>
+	<auto>
+		<id>920</id>
+		<mark>Chevrolet</mark>
+		<mudel>Lumina</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">4956</hind>
+	</auto>
+	<auto>
+		<id>921</id>
+		<mark>Audi</mark>
+		<mudel>A6</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1047</hind>
+	</auto>
+	<auto>
+		<id>922</id>
+		<mark>Oldsmobile</mark>
+		<mudel>Silhouette</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">6243</hind>
+	</auto>
+	<auto>
+		<id>923</id>
+		<mark>Ford</mark>
+		<mudel>E150</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">1041</hind>
+	</auto>
+	<auto>
+		<id>924</id>
+		<mark>Nissan</mark>
+		<mudel>Sentra</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1095</hind>
+	</auto>
+	<auto>
+		<id>925</id>
+		<mark>Mitsubishi</mark>
+		<mudel>Galant</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">9937</hind>
+	</auto>
+	<auto>
+		<id>926</id>
+		<mark>Suzuki</mark>
+		<mudel>Swift</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">3146</hind>
+	</auto>
+	<auto>
+		<id>927</id>
+		<mark>Dodge</mark>
+		<mudel>Viper</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3780</hind>
+	</auto>
+	<auto>
+		<id>928</id>
+		<mark>Mercury</mark>
+		<mudel>Grand Marquis</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6741</hind>
+	</auto>
+	<auto>
+		<id>929</id>
+		<mark>Suzuki</mark>
+		<mudel>Daewoo Lacetti</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">8810</hind>
+	</auto>
+	<auto>
+		<id>930</id>
+		<mark>Ford</mark>
+		<mudel>Fairlane</mudel>
+		<aasta>1965</aasta>
+		<hind valuuta="euro">2438</hind>
+	</auto>
+	<auto>
+		<id>931</id>
+		<mark>Plymouth</mark>
+		<mudel>Breeze</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">8401</hind>
+	</auto>
+	<auto>
+		<id>932</id>
+		<mark>Toyota</mark>
+		<mudel>Tacoma</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">6099</hind>
+	</auto>
+	<auto>
+		<id>933</id>
+		<mark>Subaru</mark>
+		<mudel>BRZ</mudel>
+		<aasta>2013</aasta>
+		<hind valuuta="euro">9984</hind>
+	</auto>
+	<auto>
+		<id>934</id>
+		<mark>Mazda</mark>
+		<mudel>MX-5</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">7463</hind>
+	</auto>
+	<auto>
+		<id>935</id>
+		<mark>Nissan</mark>
+		<mudel>Maxima</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2270</hind>
+	</auto>
+	<auto>
+		<id>936</id>
+		<mark>Lotus</mark>
+		<mudel>Exige</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">8669</hind>
+	</auto>
+	<auto>
+		<id>937</id>
+		<mark>Pontiac</mark>
+		<mudel>6000</mudel>
+		<aasta>1983</aasta>
+		<hind valuuta="euro">2255</hind>
+	</auto>
+	<auto>
+		<id>938</id>
+		<mark>Toyota</mark>
+		<mudel>MR2</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">450</hind>
+	</auto>
+	<auto>
+		<id>939</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1973</aasta>
+		<hind valuuta="euro">9002</hind>
+	</auto>
+	<auto>
+		<id>940</id>
+		<mark>GMC</mark>
+		<mudel>Savana 1500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">9184</hind>
+	</auto>
+	<auto>
+		<id>941</id>
+		<mark>Infiniti</mark>
+		<mudel>QX56</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">6771</hind>
+	</auto>
+	<auto>
+		<id>942</id>
+		<mark>Pontiac</mark>
+		<mudel>Bonneville</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">4069</hind>
+	</auto>
+	<auto>
+		<id>943</id>
+		<mark>Volkswagen</mark>
+		<mudel>Golf III</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">1276</hind>
+	</auto>
+	<auto>
+		<id>944</id>
+		<mark>Ford</mark>
+		<mudel>Expedition</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">981</hind>
+	</auto>
+	<auto>
+		<id>945</id>
+		<mark>Mazda</mark>
+		<mudel>CX-9</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">4632</hind>
+	</auto>
+	<auto>
+		<id>946</id>
+		<mark>Mazda</mark>
+		<mudel>929</mudel>
+		<aasta>1992</aasta>
+		<hind valuuta="euro">9289</hind>
+	</auto>
+	<auto>
+		<id>947</id>
+		<mark>Alfa Romeo</mark>
+		<mudel>164</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">5810</hind>
+	</auto>
+	<auto>
+		<id>948</id>
+		<mark>Nissan</mark>
+		<mudel>Altima</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">6511</hind>
+	</auto>
+	<auto>
+		<id>949</id>
+		<mark>Buick</mark>
+		<mudel>Regal</mudel>
+		<aasta>1985</aasta>
+		<hind valuuta="euro">4854</hind>
+	</auto>
+	<auto>
+		<id>950</id>
+		<mark>Kia</mark>
+		<mudel>Sedona</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1057</hind>
+	</auto>
+	<auto>
+		<id>951</id>
+		<mark>Saab</mark>
+		<mudel>9000</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">5232</hind>
+	</auto>
+	<auto>
+		<id>952</id>
+		<mark>Maserati</mark>
+		<mudel>228</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">1769</hind>
+	</auto>
+	<auto>
+		<id>953</id>
+		<mark>Dodge</mark>
+		<mudel>Ram Van 1500</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">7937</hind>
+	</auto>
+	<auto>
+		<id>954</id>
+		<mark>Ferrari</mark>
+		<mudel>FF</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">7369</hind>
+	</auto>
+	<auto>
+		<id>955</id>
+		<mark>GMC</mark>
+		<mudel>Vandura 1500</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">5547</hind>
+	</auto>
+	<auto>
+		<id>956</id>
+		<mark>Spyker</mark>
+		<mudel>C8 Spyder</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8697</hind>
+	</auto>
+	<auto>
+		<id>957</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>SL-Class</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">4452</hind>
+	</auto>
+	<auto>
+		<id>958</id>
+		<mark>Rolls-Royce</mark>
+		<mudel>Phantom</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">1083</hind>
+	</auto>
+	<auto>
+		<id>959</id>
+		<mark>Chrysler</mark>
+		<mudel>Sebring</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">8490</hind>
+	</auto>
+	<auto>
+		<id>960</id>
+		<mark>Saturn</mark>
+		<mudel>VUE</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5948</hind>
+	</auto>
+	<auto>
+		<id>961</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>CL-Class</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">1983</hind>
+	</auto>
+	<auto>
+		<id>962</id>
+		<mark>Chevrolet</mark>
+		<mudel>Lumina</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">8400</hind>
+	</auto>
+	<auto>
+		<id>963</id>
+		<mark>GMC</mark>
+		<mudel>Sonoma Club Coupe</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">6358</hind>
+	</auto>
+	<auto>
+		<id>964</id>
+		<mark>Subaru</mark>
+		<mudel>Legacy</mudel>
+		<aasta>1993</aasta>
+		<hind valuuta="euro">6794</hind>
+	</auto>
+	<auto>
+		<id>965</id>
+		<mark>Volvo</mark>
+		<mudel>V70</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">1192</hind>
+	</auto>
+	<auto>
+		<id>966</id>
+		<mark>Buick</mark>
+		<mudel>Park Avenue</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">2054</hind>
+	</auto>
+	<auto>
+		<id>967</id>
+		<mark>Kia</mark>
+		<mudel>Rio</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">839</hind>
+	</auto>
+	<auto>
+		<id>968</id>
+		<mark>Ford</mark>
+		<mudel>F-Series</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1545</hind>
+	</auto>
+	<auto>
+		<id>969</id>
+		<mark>Pontiac</mark>
+		<mudel>Bonneville</mudel>
+		<aasta>1968</aasta>
+		<hind valuuta="euro">5108</hind>
+	</auto>
+	<auto>
+		<id>970</id>
+		<mark>GMC</mark>
+		<mudel>Envoy</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8669</hind>
+	</auto>
+	<auto>
+		<id>971</id>
+		<mark>Chevrolet</mark>
+		<mudel>Silverado 2500</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">8758</hind>
+	</auto>
+	<auto>
+		<id>972</id>
+		<mark>GMC</mark>
+		<mudel>Savana 2500</mudel>
+		<aasta>2007</aasta>
+		<hind valuuta="euro">7493</hind>
+	</auto>
+	<auto>
+		<id>973</id>
+		<mark>Kia</mark>
+		<mudel>Sportage</mudel>
+		<aasta>2002</aasta>
+		<hind valuuta="euro">3473</hind>
+	</auto>
+	<auto>
+		<id>974</id>
+		<mark>Volvo</mark>
+		<mudel>C70</mudel>
+		<aasta>2011</aasta>
+		<hind valuuta="euro">1106</hind>
+	</auto>
+	<auto>
+		<id>975</id>
+		<mark>MINI</mark>
+		<mudel>Cooper</mudel>
+		<aasta>2005</aasta>
+		<hind valuuta="euro">4512</hind>
+	</auto>
+	<auto>
+		<id>976</id>
+		<mark>Cadillac</mark>
+		<mudel>SRX</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">632</hind>
+	</auto>
+	<auto>
+		<id>977</id>
+		<mark>Land Rover</mark>
+		<mudel>Discovery Series II</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">3321</hind>
+	</auto>
+	<auto>
+		<id>978</id>
+		<mark>Lexus</mark>
+		<mudel>IS</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">7063</hind>
+	</auto>
+	<auto>
+		<id>979</id>
+		<mark>Saab</mark>
+		<mudel>9-5</mudel>
+		<aasta>2000</aasta>
+		<hind valuuta="euro">2511</hind>
+	</auto>
+	<auto>
+		<id>980</id>
+		<mark>Toyota</mark>
+		<mudel>Avalon</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3190</hind>
+	</auto>
+	<auto>
+		<id>981</id>
+		<mark>BMW</mark>
+		<mudel>550</mudel>
+		<aasta>2006</aasta>
+		<hind valuuta="euro">6305</hind>
+	</auto>
+	<auto>
+		<id>982</id>
+		<mark>Honda</mark>
+		<mudel>del Sol</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">9792</hind>
+	</auto>
+	<auto>
+		<id>983</id>
+		<mark>Ford</mark>
+		<mudel>Ranger</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">6198</hind>
+	</auto>
+	<auto>
+		<id>984</id>
+		<mark>Mercedes-Benz</mark>
+		<mudel>C-Class</mudel>
+		<aasta>1999</aasta>
+		<hind valuuta="euro">3839</hind>
+	</auto>
+	<auto>
+		<id>985</id>
+		<mark>Mazda</mark>
+		<mudel>B-Series Plus</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">8643</hind>
+	</auto>
+	<auto>
+		<id>986</id>
+		<mark>Lexus</mark>
+		<mudel>GX</mudel>
+		<aasta>2008</aasta>
+		<hind valuuta="euro">2774</hind>
+	</auto>
+	<auto>
+		<id>987</id>
+		<mark>Plymouth</mark>
+		<mudel>Grand Voyager</mudel>
+		<aasta>1996</aasta>
+		<hind valuuta="euro">3152</hind>
+	</auto>
+	<auto>
+		<id>988</id>
+		<mark>Mercury</mark>
+		<mudel>Mountaineer</mudel>
+		<aasta>2004</aasta>
+		<hind valuuta="euro">6484</hind>
+	</auto>
+	<auto>
+		<id>989</id>
+		<mark>MINI</mark>
+		<mudel>Cooper</mudel>
+		<aasta>2003</aasta>
+		<hind valuuta="euro">5583</hind>
+	</auto>
+	<auto>
+		<id>990</id>
+		<mark>Ford</mark>
+		<mudel>Edge</mudel>
+		<aasta>2009</aasta>
+		<hind valuuta="euro">6958</hind>
+	</auto>
+	<auto>
+		<id>991</id>
+		<mark>Acura</mark>
+		<mudel>Integra</mudel>
+		<aasta>1994</aasta>
+		<hind valuuta="euro">9946</hind>
+	</auto>
+	<auto>
+		<id>992</id>
+		<mark>Saab</mark>
+		<mudel>900</mudel>
+		<aasta>1998</aasta>
+		<hind valuuta="euro">5619</hind>
+	</auto>
+	<auto>
+		<id>993</id>
+		<mark>Mazda</mark>
+		<mudel>929</mudel>
+		<aasta>1991</aasta>
+		<hind valuuta="euro">8788</hind>
+	</auto>
+	<auto>
+		<id>994</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 1500</mudel>
+		<aasta>1995</aasta>
+		<hind valuuta="euro">3380</hind>
+	</auto>
+	<auto>
+		<id>995</id>
+		<mark>Dodge</mark>
+		<mudel>Ram 3500 Club</mudel>
+		<aasta>1997</aasta>
+		<hind valuuta="euro">6232</hind>
+	</auto>
+	<auto>
+		<id>996</id>
+		<mark>Ford</mark>
+		<mudel>Fiesta</mudel>
+		<aasta>2012</aasta>
+		<hind valuuta="euro">5608</hind>
+	</auto>
+	<auto>
+		<id>997</id>
+		<mark>Ford</mark>
+		<mudel>Mustang</mudel>
+		<aasta>1971</aasta>
+		<hind valuuta="euro">2810</hind>
+	</auto>
+	<auto>
+		<id>998</id>
+		<mark>Saturn</mark>
+		<mudel>Outlook</mudel>
+		<aasta>2010</aasta>
+		<hind valuuta="euro">5631</hind>
+	</auto>
+	<auto>
+		<id>999</id>
+		<mark>Buick</mark>
+		<mudel>Skylark</mudel>
+		<aasta>1989</aasta>
+		<hind valuuta="euro">2731</hind>
+	</auto>
+	<auto>
+		<id>1000</id>
+		<mark>Mercury</mark>
+		<mudel>Villager</mudel>
+		<aasta>2001</aasta>
+		<hind valuuta="euro">2864</hind>
+	</auto>
+</autod>
